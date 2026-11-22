@@ -46,6 +46,16 @@ Un plan para lanzar una agencia que vende "equipos de agentes de IA" a pymes. To
 
 Hay que posicionarse **ligeramente por encima** de Codify en el vertical elegido, justificado por la especialización y por casos de ventas. No hay que competir por precio.
 
+**Referencia de Codify** (su configurador real, ver [precios/](precios/README.md)): 10 conversaciones al día $1,590 · 25: $1,990 · 60: $2,790 · 150: $4,790 · 300: $7,890. Módulos de +$100 a +$300 (redes +$2,100), que crecen con el volumen. Desde 16 empleados, plan empresa desde $11,290. La voz se cobra aparte: unos $7,400 por 10 llamadas al día.
+
+**Qué copiar de su forma de cobrar:**
+- El volumen de conversaciones como variable principal, con escalones claros.
+- Módulos que cuestan más cuanto más volumen manejan, no un precio fijo.
+- Un ajuste por valor del cliente (ticket promedio y giro).
+- WhatsApp e Instagram juntos al precio de un solo canal, como gancho.
+- La voz como producto aparte y de alto margen.
+- Un salto claro a "empresa" por tamaño del cliente.
+
 | Plan | Incluye | Precio/mes |
 |---|---|---|
 | **Esencial** | Atención y ventas, agenda, hasta 30 conversaciones al día, 1 canal | $1,990 |
