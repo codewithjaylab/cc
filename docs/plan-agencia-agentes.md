@@ -6,6 +6,22 @@ Un plan para lanzar una agencia que vende "equipos de agentes de IA" a pymes. To
 
 ---
 
+## 0. Nombre de la agencia (tentativo)
+
+| Opción | Dominio a revisar | Lectura |
+|---|---|---|
+| **VendeMás Business** | `vendemasbusiness.com` | Directo y orientado a resultados ("vender más"), suena a pyme y a negocio |
+| **Vende Más Studio** | `vende-mas-studio.com` / `vendemas.studio` | Más creativo y de agencia, combina bien con contenido y marketing |
+
+Ambos refuerzan la promesa central: **vender más**, no "tener IA". Encaja con el posicionamiento de este plan: casos de ventas medibles y reporte en dinero.
+
+**Por validar antes de decidir:**
+- Que el dominio `.com` / `.mx` esté libre (y sus variantes con y sin guion; sin guion se dicta mejor por teléfono)
+- Usuarios libres en Instagram, TikTok y WhatsApp Business
+- Búsqueda de marca en el IMPI (clase 35: publicidad y negocios; clase 42: software y servicios tecnológicos)
+- Que no choque con marcas existentes con nombres parecidos ("Vende Más")
+- Una prueba rápida con 5 a 10 dueños de negocio: cuál recuerdan y cuál les inspira más confianza
+
 ## 1. Propuesta de valor
 
 **Una frase:** "Tu negocio contesta, cotiza, cobra y da seguimiento solo, 24/7, y tú solo apruebas lo importante. Si en 30 días no cumple tus metas, te devolvemos dinero."
@@ -184,5 +200,5 @@ Usamos nuestros propios agentes internamente: demo, reportes, contenido y prospe
 
 1. Decidir el **vertical** y la **geografía** (sección 1).
 2. Validar los precios con 10 entrevistas.
-3. Definir el nombre y la marca.
+3. Elegir entre **VendeMás Business** y **Vende Más Studio** (sección 0) y registrar el dominio y la marca.
 4. Arrancar el MVP técnico (sección 4). Este repo puede alojar el código del orquestador y de los agentes.
