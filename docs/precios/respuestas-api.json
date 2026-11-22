@@ -1,0 +1,4971 @@
+[
+ {
+  "grupo": "1. Volumen (consultorio, solo WhatsApp, sin módulos)",
+  "caso": "10 conversaciones/día",
+  "entrada": {
+   "giro": "Consultorio, clínica o dentista",
+   "conversaciones_dia": 10,
+   "canales": [
+    "whatsapp"
+   ],
+   "ticket_mxn": 1500,
+   "sucursales": 1,
+   "modulos": [],
+   "productos": 15,
+   "integraciones": [],
+   "agentes": 1,
+   "empleados": 1
+  },
+  "respuesta": {
+   "plan": "negocio",
+   "empresa_incluye": null,
+   "precio_mensual": 1590,
+   "total_mensual": 1590,
+   "lineas": [
+    [
+     "Tu asistente: 10 conversaciones al día en WhatsApp",
+     1590
+    ]
+   ],
+   "descuentos": {
+    "3": 1511,
+    "6": 1431,
+    "12": 1352
+   },
+   "recarga": {
+    "porcentaje": 50,
+    "precio": 390
+   },
+   "revisar": false,
+   "voz": null,
+   "video_ia": null,
+   "incluye": [
+    "Atiende en los canales que elijas, 24/7",
+    "Asistente del dueño: le pides cosas por chat",
+    "Bandeja de aprobaciones y botón de pausa",
+    "Reporte mensual en pesos"
+   ],
+   "permanencia_meses": 0
+  }
+ },
+ {
+  "grupo": "1. Volumen (consultorio, solo WhatsApp, sin módulos)",
+  "caso": "25 conversaciones/día",
+  "entrada": {
+   "giro": "Consultorio, clínica o dentista",
+   "conversaciones_dia": 25,
+   "canales": [
+    "whatsapp"
+   ],
+   "ticket_mxn": 1500,
+   "sucursales": 1,
+   "modulos": [],
+   "productos": 15,
+   "integraciones": [],
+   "agentes": 1,
+   "empleados": 1
+  },
+  "respuesta": {
+   "plan": "negocio",
+   "empresa_incluye": null,
+   "precio_mensual": 1990,
+   "total_mensual": 1990,
+   "lineas": [
+    [
+     "Tu asistente: 25 conversaciones al día en WhatsApp",
+     1990
+    ]
+   ],
+   "descuentos": {
+    "3": 1891,
+    "6": 1791,
+    "12": 1692
+   },
+   "recarga": {
+    "porcentaje": 50,
+    "precio": 590
+   },
+   "revisar": false,
+   "voz": null,
+   "video_ia": null,
+   "incluye": [
+    "Atiende en los canales que elijas, 24/7",
+    "Asistente del dueño: le pides cosas por chat",
+    "Bandeja de aprobaciones y botón de pausa",
+    "Reporte mensual en pesos"
+   ],
+   "permanencia_meses": 0
+  }
+ },
+ {
+  "grupo": "1. Volumen (consultorio, solo WhatsApp, sin módulos)",
+  "caso": "60 conversaciones/día",
+  "entrada": {
+   "giro": "Consultorio, clínica o dentista",
+   "conversaciones_dia": 60,
+   "canales": [
+    "whatsapp"
+   ],
+   "ticket_mxn": 1500,
+   "sucursales": 1,
+   "modulos": [],
+   "productos": 15,
+   "integraciones": [],
+   "agentes": 1,
+   "empleados": 1
+  },
+  "respuesta": {
+   "plan": "negocio",
+   "empresa_incluye": null,
+   "precio_mensual": 2790,
+   "total_mensual": 2790,
+   "lineas": [
+    [
+     "Tu asistente: 60 conversaciones al día en WhatsApp",
+     2790
+    ]
+   ],
+   "descuentos": {
+    "3": 2651,
+    "6": 2511,
+    "12": 2372
+   },
+   "recarga": {
+    "porcentaje": 50,
+    "precio": 890
+   },
+   "revisar": false,
+   "voz": null,
+   "video_ia": null,
+   "incluye": [
+    "Atiende en los canales que elijas, 24/7",
+    "Asistente del dueño: le pides cosas por chat",
+    "Bandeja de aprobaciones y botón de pausa",
+    "Reporte mensual en pesos"
+   ],
+   "permanencia_meses": 0
+  }
+ },
+ {
+  "grupo": "1. Volumen (consultorio, solo WhatsApp, sin módulos)",
+  "caso": "150 conversaciones/día",
+  "entrada": {
+   "giro": "Consultorio, clínica o dentista",
+   "conversaciones_dia": 150,
+   "canales": [
+    "whatsapp"
+   ],
+   "ticket_mxn": 1500,
+   "sucursales": 1,
+   "modulos": [],
+   "productos": 15,
+   "integraciones": [],
+   "agentes": 1,
+   "empleados": 1
+  },
+  "respuesta": {
+   "plan": "negocio",
+   "empresa_incluye": null,
+   "precio_mensual": 4790,
+   "total_mensual": 4790,
+   "lineas": [
+    [
+     "Tu asistente: 150 conversaciones al día en WhatsApp",
+     4790
+    ]
+   ],
+   "descuentos": {
+    "3": 4551,
+    "6": 4311,
+    "12": 4072
+   },
+   "recarga": {
+    "porcentaje": 50,
+    "precio": 1890
+   },
+   "revisar": false,
+   "voz": null,
+   "video_ia": null,
+   "incluye": [
+    "Atiende en los canales que elijas, 24/7",
+    "Asistente del dueño: le pides cosas por chat",
+    "Bandeja de aprobaciones y botón de pausa",
+    "Reporte mensual en pesos"
+   ],
+   "permanencia_meses": 0
+  }
+ },
+ {
+  "grupo": "1. Volumen (consultorio, solo WhatsApp, sin módulos)",
+  "caso": "300 conversaciones/día",
+  "entrada": {
+   "giro": "Consultorio, clínica o dentista",
+   "conversaciones_dia": 300,
+   "canales": [
+    "whatsapp"
+   ],
+   "ticket_mxn": 1500,
+   "sucursales": 1,
+   "modulos": [],
+   "productos": 15,
+   "integraciones": [],
+   "agentes": 1,
+   "empleados": 1
+  },
+  "respuesta": {
+   "plan": "negocio",
+   "empresa_incluye": null,
+   "precio_mensual": 7890,
+   "total_mensual": 7890,
+   "lineas": [
+    [
+     "Tu asistente: 300 conversaciones al día en WhatsApp",
+     7890
+    ]
+   ],
+   "descuentos": {
+    "3": 7496,
+    "6": 7101,
+    "12": 6707
+   },
+   "recarga": {
+    "porcentaje": 50,
+    "precio": 3590
+   },
+   "revisar": false,
+   "voz": null,
+   "video_ia": null,
+   "incluye": [
+    "Atiende en los canales que elijas, 24/7",
+    "Asistente del dueño: le pides cosas por chat",
+    "Bandeja de aprobaciones y botón de pausa",
+    "Reporte mensual en pesos"
+   ],
+   "permanencia_meses": 0
+  }
+ },
+ {
+  "grupo": "1. Volumen (consultorio, solo WhatsApp, sin módulos)",
+  "caso": "450 conversaciones/día",
+  "entrada": {
+   "giro": "Consultorio, clínica o dentista",
+   "conversaciones_dia": 450,
+   "canales": [
+    "whatsapp"
+   ],
+   "ticket_mxn": 1500,
+   "sucursales": 1,
+   "modulos": [],
+   "productos": 15,
+   "integraciones": [],
+   "agentes": 1,
+   "empleados": 1
+  },
+  "respuesta": {
+   "plan": "negocio",
+   "empresa_incluye": null,
+   "precio_mensual": 11190,
+   "total_mensual": 11190,
+   "lineas": [
+    [
+     "Tu asistente: 450 conversaciones al día en WhatsApp",
+     11190
+    ]
+   ],
+   "descuentos": {
+    "3": 10631,
+    "6": 10071,
+    "12": 9512
+   },
+   "recarga": {
+    "porcentaje": 50,
+    "precio": 5290
+   },
+   "revisar": false,
+   "voz": null,
+   "video_ia": null,
+   "incluye": [
+    "Atiende en los canales que elijas, 24/7",
+    "Asistente del dueño: le pides cosas por chat",
+    "Bandeja de aprobaciones y botón de pausa",
+    "Reporte mensual en pesos"
+   ],
+   "permanencia_meses": 0
+  }
+ },
+ {
+  "grupo": "2. Cada módulo solo (consultorio, 10 conv/día)",
+  "caso": "agenda",
+  "entrada": {
+   "giro": "Consultorio, clínica o dentista",
+   "conversaciones_dia": 10,
+   "canales": [
+    "whatsapp"
+   ],
+   "ticket_mxn": 1500,
+   "sucursales": 1,
+   "modulos": [
+    "agenda"
+   ],
+   "productos": 15,
+   "integraciones": [],
+   "agentes": 1,
+   "empleados": 1
+  },
+  "respuesta": {
+   "plan": "negocio",
+   "empresa_incluye": null,
+   "precio_mensual": 1690,
+   "total_mensual": 1690,
+   "lineas": [
+    [
+     "Tu asistente: 10 conversaciones al día en WhatsApp",
+     1590
+    ],
+    [
+     "Agenda y recordatorios",
+     100
+    ]
+   ],
+   "descuentos": {
+    "3": 1606,
+    "6": 1521,
+    "12": 1437
+   },
+   "recarga": {
+    "porcentaje": 50,
+    "precio": 390
+   },
+   "revisar": false,
+   "voz": null,
+   "video_ia": null,
+   "incluye": [
+    "Atiende en los canales que elijas, 24/7",
+    "Asistente del dueño: le pides cosas por chat",
+    "Bandeja de aprobaciones y botón de pausa",
+    "Reporte mensual en pesos"
+   ],
+   "permanencia_meses": 0
+  }
+ },
+ {
+  "grupo": "2. Cada módulo solo (consultorio, 10 conv/día)",
+  "caso": "ventas",
+  "entrada": {
+   "giro": "Consultorio, clínica o dentista",
+   "conversaciones_dia": 10,
+   "canales": [
+    "whatsapp"
+   ],
+   "ticket_mxn": 1500,
+   "sucursales": 1,
+   "modulos": [
+    "ventas"
+   ],
+   "productos": 15,
+   "integraciones": [],
+   "agentes": 1,
+   "empleados": 1
+  },
+  "respuesta": {
+   "plan": "negocio",
+   "empresa_incluye": null,
+   "precio_mensual": 1690,
+   "total_mensual": 1690,
+   "lineas": [
+    [
+     "Tu asistente: 10 conversaciones al día en WhatsApp",
+     1590
+    ],
+    [
+     "Ventas y seguimiento",
+     100
+    ]
+   ],
+   "descuentos": {
+    "3": 1606,
+    "6": 1521,
+    "12": 1437
+   },
+   "recarga": {
+    "porcentaje": 50,
+    "precio": 390
+   },
+   "revisar": false,
+   "voz": null,
+   "video_ia": null,
+   "incluye": [
+    "Atiende en los canales que elijas, 24/7",
+    "Asistente del dueño: le pides cosas por chat",
+    "Bandeja de aprobaciones y botón de pausa",
+    "Reporte mensual en pesos"
+   ],
+   "permanencia_meses": 0
+  }
+ },
+ {
+  "grupo": "2. Cada módulo solo (consultorio, 10 conv/día)",
+  "caso": "cotizaciones",
+  "entrada": {
+   "giro": "Consultorio, clínica o dentista",
+   "conversaciones_dia": 10,
+   "canales": [
+    "whatsapp"
+   ],
+   "ticket_mxn": 1500,
+   "sucursales": 1,
+   "modulos": [
+    "cotizaciones"
+   ],
+   "productos": 15,
+   "integraciones": [],
+   "agentes": 1,
+   "empleados": 1
+  },
+  "respuesta": {
+   "plan": "negocio",
+   "empresa_incluye": null,
+   "precio_mensual": 1790,
+   "total_mensual": 1790,
+   "lineas": [
+    [
+     "Tu asistente: 10 conversaciones al día en WhatsApp",
+     1590
+    ],
+    [
+     "Agente de cotizaciones",
+     200
+    ]
+   ],
+   "descuentos": {
+    "3": 1701,
+    "6": 1611,
+    "12": 1522
+   },
+   "recarga": {
+    "porcentaje": 50,
+    "precio": 390
+   },
+   "revisar": false,
+   "voz": null,
+   "video_ia": null,
+   "incluye": [
+    "Atiende en los canales que elijas, 24/7",
+    "Asistente del dueño: le pides cosas por chat",
+    "Bandeja de aprobaciones y botón de pausa",
+    "Reporte mensual en pesos"
+   ],
+   "permanencia_meses": 0
+  }
+ },
+ {
+  "grupo": "2. Cada módulo solo (consultorio, 10 conv/día)",
+  "caso": "cobranza",
+  "entrada": {
+   "giro": "Consultorio, clínica o dentista",
+   "conversaciones_dia": 10,
+   "canales": [
+    "whatsapp"
+   ],
+   "ticket_mxn": 1500,
+   "sucursales": 1,
+   "modulos": [
+    "cobranza"
+   ],
+   "productos": 15,
+   "integraciones": [],
+   "agentes": 1,
+   "empleados": 1
+  },
+  "respuesta": {
+   "plan": "negocio",
+   "empresa_incluye": null,
+   "precio_mensual": 1590,
+   "total_mensual": 1590,
+   "lineas": [
+    [
+     "Tu asistente: 10 conversaciones al día en WhatsApp",
+     1590
+    ],
+    [
+     "Cobranza",
+     0
+    ]
+   ],
+   "descuentos": {
+    "3": 1511,
+    "6": 1431,
+    "12": 1352
+   },
+   "recarga": {
+    "porcentaje": 50,
+    "precio": 390
+   },
+   "revisar": false,
+   "voz": null,
+   "video_ia": null,
+   "incluye": [
+    "Atiende en los canales que elijas, 24/7",
+    "Asistente del dueño: le pides cosas por chat",
+    "Bandeja de aprobaciones y botón de pausa",
+    "Reporte mensual en pesos"
+   ],
+   "permanencia_meses": 0
+  }
+ },
+ {
+  "grupo": "2. Cada módulo solo (consultorio, 10 conv/día)",
+  "caso": "compras",
+  "entrada": {
+   "giro": "Consultorio, clínica o dentista",
+   "conversaciones_dia": 10,
+   "canales": [
+    "whatsapp"
+   ],
+   "ticket_mxn": 1500,
+   "sucursales": 1,
+   "modulos": [
+    "compras"
+   ],
+   "productos": 15,
+   "integraciones": [],
+   "agentes": 1,
+   "empleados": 1
+  },
+  "respuesta": {
+   "plan": "negocio",
+   "empresa_incluye": null,
+   "precio_mensual": 1790,
+   "total_mensual": 1790,
+   "lineas": [
+    [
+     "Tu asistente: 10 conversaciones al día en WhatsApp",
+     1590
+    ],
+    [
+     "Agente de compras y proveedores",
+     200
+    ]
+   ],
+   "descuentos": {
+    "3": 1701,
+    "6": 1611,
+    "12": 1522
+   },
+   "recarga": {
+    "porcentaje": 50,
+    "precio": 390
+   },
+   "revisar": false,
+   "voz": null,
+   "video_ia": null,
+   "incluye": [
+    "Atiende en los canales que elijas, 24/7",
+    "Asistente del dueño: le pides cosas por chat",
+    "Bandeja de aprobaciones y botón de pausa",
+    "Reporte mensual en pesos"
+   ],
+   "permanencia_meses": 0
+  }
+ },
+ {
+  "grupo": "2. Cada módulo solo (consultorio, 10 conv/día)",
+  "caso": "operacion",
+  "entrada": {
+   "giro": "Consultorio, clínica o dentista",
+   "conversaciones_dia": 10,
+   "canales": [
+    "whatsapp"
+   ],
+   "ticket_mxn": 1500,
+   "sucursales": 1,
+   "modulos": [
+    "operacion"
+   ],
+   "productos": 15,
+   "integraciones": [],
+   "agentes": 1,
+   "empleados": 1
+  },
+  "respuesta": {
+   "plan": "negocio",
+   "empresa_incluye": null,
+   "precio_mensual": 1890,
+   "total_mensual": 1890,
+   "lineas": [
+    [
+     "Tu asistente: 10 conversaciones al día en WhatsApp",
+     1590
+    ],
+    [
+     "Operación y reportes",
+     300
+    ]
+   ],
+   "descuentos": {
+    "3": 1796,
+    "6": 1701,
+    "12": 1607
+   },
+   "recarga": {
+    "porcentaje": 50,
+    "precio": 390
+   },
+   "revisar": false,
+   "voz": null,
+   "video_ia": null,
+   "incluye": [
+    "Atiende en los canales que elijas, 24/7",
+    "Asistente del dueño: le pides cosas por chat",
+    "Bandeja de aprobaciones y botón de pausa",
+    "Reporte mensual en pesos"
+   ],
+   "permanencia_meses": 0
+  }
+ },
+ {
+  "grupo": "2. Cada módulo solo (consultorio, 10 conv/día)",
+  "caso": "redes",
+  "entrada": {
+   "giro": "Consultorio, clínica o dentista",
+   "conversaciones_dia": 10,
+   "canales": [
+    "whatsapp"
+   ],
+   "ticket_mxn": 1500,
+   "sucursales": 1,
+   "modulos": [
+    "redes"
+   ],
+   "productos": 15,
+   "integraciones": [],
+   "agentes": 1,
+   "empleados": 1,
+   "redes_publicaciones_semana": 5
+  },
+  "respuesta": {
+   "plan": "negocio",
+   "empresa_incluye": null,
+   "precio_mensual": 3690,
+   "total_mensual": 3690,
+   "lineas": [
+    [
+     "Tu asistente: 10 conversaciones al día en WhatsApp",
+     1590
+    ],
+    [
+     "Redes sociales (5 publicaciones a la semana)",
+     2100
+    ]
+   ],
+   "descuentos": {
+    "3": 3506,
+    "6": 3321,
+    "12": 3137
+   },
+   "recarga": {
+    "porcentaje": 50,
+    "precio": 590
+   },
+   "revisar": false,
+   "voz": null,
+   "video_ia": null,
+   "incluye": [
+    "Atiende en los canales que elijas, 24/7",
+    "Asistente del dueño: le pides cosas por chat",
+    "Bandeja de aprobaciones y botón de pausa",
+    "Reporte mensual en pesos"
+   ],
+   "permanencia_meses": 0
+  }
+ },
+ {
+  "grupo": "2. Cada módulo solo (consultorio, 10 conv/día)",
+  "caso": "seo",
+  "entrada": {
+   "giro": "Consultorio, clínica o dentista",
+   "conversaciones_dia": 10,
+   "canales": [
+    "whatsapp"
+   ],
+   "ticket_mxn": 1500,
+   "sucursales": 1,
+   "modulos": [
+    "seo"
+   ],
+   "productos": 15,
+   "integraciones": [],
+   "agentes": 1,
+   "empleados": 1,
+   "seo_blogs_mes": 4
+  },
+  "respuesta": {
+   "plan": "negocio",
+   "empresa_incluye": null,
+   "precio_mensual": 2490,
+   "total_mensual": 2490,
+   "lineas": [
+    [
+     "Tu asistente: 10 conversaciones al día en WhatsApp",
+     1590
+    ],
+    [
+     "Google y las IA (SEO) (4 artículos al mes)",
+     900
+    ]
+   ],
+   "descuentos": {
+    "3": 2366,
+    "6": 2241,
+    "12": 2117
+   },
+   "recarga": {
+    "porcentaje": 50,
+    "precio": 690
+   },
+   "revisar": false,
+   "voz": null,
+   "video_ia": null,
+   "incluye": [
+    "Atiende en los canales que elijas, 24/7",
+    "Asistente del dueño: le pides cosas por chat",
+    "Bandeja de aprobaciones y botón de pausa",
+    "Reporte mensual en pesos"
+   ],
+   "permanencia_meses": 0
+  }
+ },
+ {
+  "grupo": "2. Cada módulo solo (consultorio, 10 conv/día)",
+  "caso": "anuncios",
+  "entrada": {
+   "giro": "Consultorio, clínica o dentista",
+   "conversaciones_dia": 10,
+   "canales": [
+    "whatsapp"
+   ],
+   "ticket_mxn": 1500,
+   "sucursales": 1,
+   "modulos": [
+    "anuncios"
+   ],
+   "productos": 15,
+   "integraciones": [],
+   "agentes": 1,
+   "empleados": 1,
+   "anuncios_inversion_mxn": 3000
+  },
+  "respuesta": {
+   "plan": "negocio",
+   "empresa_incluye": null,
+   "precio_mensual": 1890,
+   "total_mensual": 1890,
+   "lineas": [
+    [
+     "Tu asistente: 10 conversaciones al día en WhatsApp",
+     1590
+    ],
+    [
+     "Anuncios",
+     300
+    ]
+   ],
+   "descuentos": {
+    "3": 1796,
+    "6": 1701,
+    "12": 1607
+   },
+   "recarga": {
+    "porcentaje": 50,
+    "precio": 390
+   },
+   "revisar": false,
+   "voz": null,
+   "video_ia": null,
+   "incluye": [
+    "Atiende en los canales que elijas, 24/7",
+    "Asistente del dueño: le pides cosas por chat",
+    "Bandeja de aprobaciones y botón de pausa",
+    "Reporte mensual en pesos"
+   ],
+   "permanencia_meses": 0
+  }
+ },
+ {
+  "grupo": "3. Redes: publicaciones/semana",
+  "caso": "3/semana",
+  "entrada": {
+   "giro": "Consultorio, clínica o dentista",
+   "conversaciones_dia": 10,
+   "canales": [
+    "whatsapp"
+   ],
+   "ticket_mxn": 1500,
+   "sucursales": 1,
+   "modulos": [
+    "redes"
+   ],
+   "productos": 15,
+   "integraciones": [],
+   "agentes": 1,
+   "empleados": 1,
+   "redes_publicaciones_semana": 3
+  },
+  "respuesta": {
+   "plan": "negocio",
+   "empresa_incluye": null,
+   "precio_mensual": 3490,
+   "total_mensual": 3490,
+   "lineas": [
+    [
+     "Tu asistente: 10 conversaciones al día en WhatsApp",
+     1590
+    ],
+    [
+     "Redes sociales (3 publicaciones a la semana)",
+     1900
+    ]
+   ],
+   "descuentos": {
+    "3": 3316,
+    "6": 3141,
+    "12": 2967
+   },
+   "recarga": {
+    "porcentaje": 50,
+    "precio": 590
+   },
+   "revisar": false,
+   "voz": null,
+   "video_ia": null,
+   "incluye": [
+    "Atiende en los canales que elijas, 24/7",
+    "Asistente del dueño: le pides cosas por chat",
+    "Bandeja de aprobaciones y botón de pausa",
+    "Reporte mensual en pesos"
+   ],
+   "permanencia_meses": 0
+  }
+ },
+ {
+  "grupo": "3. Redes: publicaciones/semana",
+  "caso": "5/semana",
+  "entrada": {
+   "giro": "Consultorio, clínica o dentista",
+   "conversaciones_dia": 10,
+   "canales": [
+    "whatsapp"
+   ],
+   "ticket_mxn": 1500,
+   "sucursales": 1,
+   "modulos": [
+    "redes"
+   ],
+   "productos": 15,
+   "integraciones": [],
+   "agentes": 1,
+   "empleados": 1,
+   "redes_publicaciones_semana": 5
+  },
+  "respuesta": {
+   "plan": "negocio",
+   "empresa_incluye": null,
+   "precio_mensual": 3690,
+   "total_mensual": 3690,
+   "lineas": [
+    [
+     "Tu asistente: 10 conversaciones al día en WhatsApp",
+     1590
+    ],
+    [
+     "Redes sociales (5 publicaciones a la semana)",
+     2100
+    ]
+   ],
+   "descuentos": {
+    "3": 3506,
+    "6": 3321,
+    "12": 3137
+   },
+   "recarga": {
+    "porcentaje": 50,
+    "precio": 590
+   },
+   "revisar": false,
+   "voz": null,
+   "video_ia": null,
+   "incluye": [
+    "Atiende en los canales que elijas, 24/7",
+    "Asistente del dueño: le pides cosas por chat",
+    "Bandeja de aprobaciones y botón de pausa",
+    "Reporte mensual en pesos"
+   ],
+   "permanencia_meses": 0
+  }
+ },
+ {
+  "grupo": "3. Redes: publicaciones/semana",
+  "caso": "7/semana",
+  "entrada": {
+   "giro": "Consultorio, clínica o dentista",
+   "conversaciones_dia": 10,
+   "canales": [
+    "whatsapp"
+   ],
+   "ticket_mxn": 1500,
+   "sucursales": 1,
+   "modulos": [
+    "redes"
+   ],
+   "productos": 15,
+   "integraciones": [],
+   "agentes": 1,
+   "empleados": 1,
+   "redes_publicaciones_semana": 7
+  },
+  "respuesta": {
+   "plan": "negocio",
+   "empresa_incluye": null,
+   "precio_mensual": 3990,
+   "total_mensual": 3990,
+   "lineas": [
+    [
+     "Tu asistente: 10 conversaciones al día en WhatsApp",
+     1590
+    ],
+    [
+     "Redes sociales (7 publicaciones a la semana)",
+     2400
+    ]
+   ],
+   "descuentos": {
+    "3": 3791,
+    "6": 3591,
+    "12": 3392
+   },
+   "recarga": {
+    "porcentaje": 50,
+    "precio": 690
+   },
+   "revisar": false,
+   "voz": null,
+   "video_ia": null,
+   "incluye": [
+    "Atiende en los canales que elijas, 24/7",
+    "Asistente del dueño: le pides cosas por chat",
+    "Bandeja de aprobaciones y botón de pausa",
+    "Reporte mensual en pesos"
+   ],
+   "permanencia_meses": 0
+  }
+ },
+ {
+  "grupo": "4. SEO: artículos/mes",
+  "caso": "4/mes",
+  "entrada": {
+   "giro": "Consultorio, clínica o dentista",
+   "conversaciones_dia": 10,
+   "canales": [
+    "whatsapp"
+   ],
+   "ticket_mxn": 1500,
+   "sucursales": 1,
+   "modulos": [
+    "seo"
+   ],
+   "productos": 15,
+   "integraciones": [],
+   "agentes": 1,
+   "empleados": 1,
+   "seo_blogs_mes": 4
+  },
+  "respuesta": {
+   "plan": "negocio",
+   "empresa_incluye": null,
+   "precio_mensual": 2490,
+   "total_mensual": 2490,
+   "lineas": [
+    [
+     "Tu asistente: 10 conversaciones al día en WhatsApp",
+     1590
+    ],
+    [
+     "Google y las IA (SEO) (4 artículos al mes)",
+     900
+    ]
+   ],
+   "descuentos": {
+    "3": 2366,
+    "6": 2241,
+    "12": 2117
+   },
+   "recarga": {
+    "porcentaje": 50,
+    "precio": 690
+   },
+   "revisar": false,
+   "voz": null,
+   "video_ia": null,
+   "incluye": [
+    "Atiende en los canales que elijas, 24/7",
+    "Asistente del dueño: le pides cosas por chat",
+    "Bandeja de aprobaciones y botón de pausa",
+    "Reporte mensual en pesos"
+   ],
+   "permanencia_meses": 0
+  }
+ },
+ {
+  "grupo": "4. SEO: artículos/mes",
+  "caso": "8/mes",
+  "entrada": {
+   "giro": "Consultorio, clínica o dentista",
+   "conversaciones_dia": 10,
+   "canales": [
+    "whatsapp"
+   ],
+   "ticket_mxn": 1500,
+   "sucursales": 1,
+   "modulos": [
+    "seo"
+   ],
+   "productos": 15,
+   "integraciones": [],
+   "agentes": 1,
+   "empleados": 1,
+   "seo_blogs_mes": 8
+  },
+  "respuesta": {
+   "plan": "negocio",
+   "empresa_incluye": null,
+   "precio_mensual": 2590,
+   "total_mensual": 2590,
+   "lineas": [
+    [
+     "Tu asistente: 10 conversaciones al día en WhatsApp",
+     1590
+    ],
+    [
+     "Google y las IA (SEO) (8 artículos al mes)",
+     1000
+    ]
+   ],
+   "descuentos": {
+    "3": 2461,
+    "6": 2331,
+    "12": 2202
+   },
+   "recarga": {
+    "porcentaje": 50,
+    "precio": 690
+   },
+   "revisar": false,
+   "voz": null,
+   "video_ia": null,
+   "incluye": [
+    "Atiende en los canales que elijas, 24/7",
+    "Asistente del dueño: le pides cosas por chat",
+    "Bandeja de aprobaciones y botón de pausa",
+    "Reporte mensual en pesos"
+   ],
+   "permanencia_meses": 0
+  }
+ },
+ {
+  "grupo": "4. SEO: artículos/mes",
+  "caso": "12/mes",
+  "entrada": {
+   "giro": "Consultorio, clínica o dentista",
+   "conversaciones_dia": 10,
+   "canales": [
+    "whatsapp"
+   ],
+   "ticket_mxn": 1500,
+   "sucursales": 1,
+   "modulos": [
+    "seo"
+   ],
+   "productos": 15,
+   "integraciones": [],
+   "agentes": 1,
+   "empleados": 1,
+   "seo_blogs_mes": 12
+  },
+  "respuesta": {
+   "plan": "negocio",
+   "empresa_incluye": null,
+   "precio_mensual": 2790,
+   "total_mensual": 2790,
+   "lineas": [
+    [
+     "Tu asistente: 10 conversaciones al día en WhatsApp",
+     1590
+    ],
+    [
+     "Google y las IA (SEO) (12 artículos al mes)",
+     1200
+    ]
+   ],
+   "descuentos": {
+    "3": 2651,
+    "6": 2511,
+    "12": 2372
+   },
+   "recarga": {
+    "porcentaje": 50,
+    "precio": 690
+   },
+   "revisar": false,
+   "voz": null,
+   "video_ia": null,
+   "incluye": [
+    "Atiende en los canales que elijas, 24/7",
+    "Asistente del dueño: le pides cosas por chat",
+    "Bandeja de aprobaciones y botón de pausa",
+    "Reporte mensual en pesos"
+   ],
+   "permanencia_meses": 0
+  }
+ },
+ {
+  "grupo": "5. Anuncios: inversión mensual",
+  "caso": "$3,000",
+  "entrada": {
+   "giro": "Consultorio, clínica o dentista",
+   "conversaciones_dia": 10,
+   "canales": [
+    "whatsapp"
+   ],
+   "ticket_mxn": 1500,
+   "sucursales": 1,
+   "modulos": [
+    "anuncios"
+   ],
+   "productos": 15,
+   "integraciones": [],
+   "agentes": 1,
+   "empleados": 1,
+   "anuncios_inversion_mxn": 3000
+  },
+  "respuesta": {
+   "plan": "negocio",
+   "empresa_incluye": null,
+   "precio_mensual": 1890,
+   "total_mensual": 1890,
+   "lineas": [
+    [
+     "Tu asistente: 10 conversaciones al día en WhatsApp",
+     1590
+    ],
+    [
+     "Anuncios",
+     300
+    ]
+   ],
+   "descuentos": {
+    "3": 1796,
+    "6": 1701,
+    "12": 1607
+   },
+   "recarga": {
+    "porcentaje": 50,
+    "precio": 390
+   },
+   "revisar": false,
+   "voz": null,
+   "video_ia": null,
+   "incluye": [
+    "Atiende en los canales que elijas, 24/7",
+    "Asistente del dueño: le pides cosas por chat",
+    "Bandeja de aprobaciones y botón de pausa",
+    "Reporte mensual en pesos"
+   ],
+   "permanencia_meses": 0
+  }
+ },
+ {
+  "grupo": "5. Anuncios: inversión mensual",
+  "caso": "$12,000",
+  "entrada": {
+   "giro": "Consultorio, clínica o dentista",
+   "conversaciones_dia": 10,
+   "canales": [
+    "whatsapp"
+   ],
+   "ticket_mxn": 1500,
+   "sucursales": 1,
+   "modulos": [
+    "anuncios"
+   ],
+   "productos": 15,
+   "integraciones": [],
+   "agentes": 1,
+   "empleados": 1,
+   "anuncios_inversion_mxn": 12000
+  },
+  "respuesta": {
+   "plan": "negocio",
+   "empresa_incluye": null,
+   "precio_mensual": 1890,
+   "total_mensual": 1890,
+   "lineas": [
+    [
+     "Tu asistente: 10 conversaciones al día en WhatsApp",
+     1590
+    ],
+    [
+     "Anuncios",
+     300
+    ]
+   ],
+   "descuentos": {
+    "3": 1796,
+    "6": 1701,
+    "12": 1607
+   },
+   "recarga": {
+    "porcentaje": 50,
+    "precio": 390
+   },
+   "revisar": false,
+   "voz": null,
+   "video_ia": null,
+   "incluye": [
+    "Atiende en los canales que elijas, 24/7",
+    "Asistente del dueño: le pides cosas por chat",
+    "Bandeja de aprobaciones y botón de pausa",
+    "Reporte mensual en pesos"
+   ],
+   "permanencia_meses": 0
+  }
+ },
+ {
+  "grupo": "5. Anuncios: inversión mensual",
+  "caso": "$35,000",
+  "entrada": {
+   "giro": "Consultorio, clínica o dentista",
+   "conversaciones_dia": 10,
+   "canales": [
+    "whatsapp"
+   ],
+   "ticket_mxn": 1500,
+   "sucursales": 1,
+   "modulos": [
+    "anuncios"
+   ],
+   "productos": 15,
+   "integraciones": [],
+   "agentes": 1,
+   "empleados": 1,
+   "anuncios_inversion_mxn": 35000
+  },
+  "respuesta": {
+   "plan": "negocio",
+   "empresa_incluye": null,
+   "precio_mensual": 1890,
+   "total_mensual": 1890,
+   "lineas": [
+    [
+     "Tu asistente: 10 conversaciones al día en WhatsApp",
+     1590
+    ],
+    [
+     "Anuncios",
+     300
+    ]
+   ],
+   "descuentos": {
+    "3": 1796,
+    "6": 1701,
+    "12": 1607
+   },
+   "recarga": {
+    "porcentaje": 50,
+    "precio": 390
+   },
+   "revisar": false,
+   "voz": null,
+   "video_ia": null,
+   "incluye": [
+    "Atiende en los canales que elijas, 24/7",
+    "Asistente del dueño: le pides cosas por chat",
+    "Bandeja de aprobaciones y botón de pausa",
+    "Reporte mensual en pesos"
+   ],
+   "permanencia_meses": 0
+  }
+ },
+ {
+  "grupo": "5. Anuncios: inversión mensual",
+  "caso": "$80,000",
+  "entrada": {
+   "giro": "Consultorio, clínica o dentista",
+   "conversaciones_dia": 10,
+   "canales": [
+    "whatsapp"
+   ],
+   "ticket_mxn": 1500,
+   "sucursales": 1,
+   "modulos": [
+    "anuncios"
+   ],
+   "productos": 15,
+   "integraciones": [],
+   "agentes": 1,
+   "empleados": 1,
+   "anuncios_inversion_mxn": 80000
+  },
+  "respuesta": {
+   "plan": "negocio",
+   "empresa_incluye": null,
+   "precio_mensual": 1890,
+   "total_mensual": 1890,
+   "lineas": [
+    [
+     "Tu asistente: 10 conversaciones al día en WhatsApp",
+     1590
+    ],
+    [
+     "Anuncios",
+     300
+    ]
+   ],
+   "descuentos": {
+    "3": 1796,
+    "6": 1701,
+    "12": 1607
+   },
+   "recarga": {
+    "porcentaje": 50,
+    "precio": 390
+   },
+   "revisar": false,
+   "voz": null,
+   "video_ia": null,
+   "incluye": [
+    "Atiende en los canales que elijas, 24/7",
+    "Asistente del dueño: le pides cosas por chat",
+    "Bandeja de aprobaciones y botón de pausa",
+    "Reporte mensual en pesos"
+   ],
+   "permanencia_meses": 0
+  }
+ },
+ {
+  "grupo": "6. Número de canales",
+  "caso": "whatsapp",
+  "entrada": {
+   "giro": "Consultorio, clínica o dentista",
+   "conversaciones_dia": 10,
+   "canales": [
+    "whatsapp"
+   ],
+   "ticket_mxn": 1500,
+   "sucursales": 1,
+   "modulos": [],
+   "productos": 15,
+   "integraciones": [],
+   "agentes": 1,
+   "empleados": 1
+  },
+  "respuesta": {
+   "plan": "negocio",
+   "empresa_incluye": null,
+   "precio_mensual": 1590,
+   "total_mensual": 1590,
+   "lineas": [
+    [
+     "Tu asistente: 10 conversaciones al día en WhatsApp",
+     1590
+    ]
+   ],
+   "descuentos": {
+    "3": 1511,
+    "6": 1431,
+    "12": 1352
+   },
+   "recarga": {
+    "porcentaje": 50,
+    "precio": 390
+   },
+   "revisar": false,
+   "voz": null,
+   "video_ia": null,
+   "incluye": [
+    "Atiende en los canales que elijas, 24/7",
+    "Asistente del dueño: le pides cosas por chat",
+    "Bandeja de aprobaciones y botón de pausa",
+    "Reporte mensual en pesos"
+   ],
+   "permanencia_meses": 0
+  }
+ },
+ {
+  "grupo": "6. Número de canales",
+  "caso": "whatsapp + instagram",
+  "entrada": {
+   "giro": "Consultorio, clínica o dentista",
+   "conversaciones_dia": 10,
+   "canales": [
+    "whatsapp",
+    "instagram"
+   ],
+   "ticket_mxn": 1500,
+   "sucursales": 1,
+   "modulos": [],
+   "productos": 15,
+   "integraciones": [],
+   "agentes": 1,
+   "empleados": 1
+  },
+  "respuesta": {
+   "plan": "negocio",
+   "empresa_incluye": null,
+   "precio_mensual": 1590,
+   "total_mensual": 1590,
+   "lineas": [
+    [
+     "Tu asistente: 10 conversaciones al día en WhatsApp, Instagram",
+     1590
+    ]
+   ],
+   "descuentos": {
+    "3": 1511,
+    "6": 1431,
+    "12": 1352
+   },
+   "recarga": {
+    "porcentaje": 50,
+    "precio": 390
+   },
+   "revisar": false,
+   "voz": null,
+   "video_ia": null,
+   "incluye": [
+    "Atiende en los canales que elijas, 24/7",
+    "Asistente del dueño: le pides cosas por chat",
+    "Bandeja de aprobaciones y botón de pausa",
+    "Reporte mensual en pesos"
+   ],
+   "permanencia_meses": 0
+  }
+ },
+ {
+  "grupo": "6. Número de canales",
+  "caso": "whatsapp + instagram + messenger",
+  "entrada": {
+   "giro": "Consultorio, clínica o dentista",
+   "conversaciones_dia": 10,
+   "canales": [
+    "whatsapp",
+    "instagram",
+    "messenger"
+   ],
+   "ticket_mxn": 1500,
+   "sucursales": 1,
+   "modulos": [],
+   "productos": 15,
+   "integraciones": [],
+   "agentes": 1,
+   "empleados": 1
+  },
+  "respuesta": {
+   "plan": "negocio",
+   "empresa_incluye": null,
+   "precio_mensual": 2390,
+   "total_mensual": 2390,
+   "lineas": [
+    [
+     "Tu asistente: 10 conversaciones al día en WhatsApp, Instagram, Messenger",
+     2390
+    ]
+   ],
+   "descuentos": {
+    "3": 2271,
+    "6": 2151,
+    "12": 2032
+   },
+   "recarga": {
+    "porcentaje": 50,
+    "precio": 390
+   },
+   "revisar": false,
+   "voz": null,
+   "video_ia": null,
+   "incluye": [
+    "Atiende en los canales que elijas, 24/7",
+    "Asistente del dueño: le pides cosas por chat",
+    "Bandeja de aprobaciones y botón de pausa",
+    "Reporte mensual en pesos"
+   ],
+   "permanencia_meses": 0
+  }
+ },
+ {
+  "grupo": "6. Número de canales",
+  "caso": "whatsapp + instagram + messenger + web",
+  "entrada": {
+   "giro": "Consultorio, clínica o dentista",
+   "conversaciones_dia": 10,
+   "canales": [
+    "whatsapp",
+    "instagram",
+    "messenger",
+    "web"
+   ],
+   "ticket_mxn": 1500,
+   "sucursales": 1,
+   "modulos": [],
+   "productos": 15,
+   "integraciones": [],
+   "agentes": 1,
+   "empleados": 1
+  },
+  "respuesta": {
+   "plan": "negocio",
+   "empresa_incluye": null,
+   "precio_mensual": 2390,
+   "total_mensual": 2390,
+   "lineas": [
+    [
+     "Tu asistente: 10 conversaciones al día en WhatsApp, Instagram, Messenger, Chat en tu página",
+     2390
+    ]
+   ],
+   "descuentos": {
+    "3": 2271,
+    "6": 2151,
+    "12": 2032
+   },
+   "recarga": {
+    "porcentaje": 50,
+    "precio": 390
+   },
+   "revisar": false,
+   "voz": null,
+   "video_ia": null,
+   "incluye": [
+    "Atiende en los canales que elijas, 24/7",
+    "Asistente del dueño: le pides cosas por chat",
+    "Bandeja de aprobaciones y botón de pausa",
+    "Reporte mensual en pesos"
+   ],
+   "permanencia_meses": 0
+  }
+ },
+ {
+  "grupo": "6. Número de canales",
+  "caso": "whatsapp + instagram + messenger + web + correo",
+  "entrada": {
+   "giro": "Consultorio, clínica o dentista",
+   "conversaciones_dia": 10,
+   "canales": [
+    "whatsapp",
+    "instagram",
+    "messenger",
+    "web",
+    "correo"
+   ],
+   "ticket_mxn": 1500,
+   "sucursales": 1,
+   "modulos": [],
+   "productos": 15,
+   "integraciones": [],
+   "agentes": 1,
+   "empleados": 1
+  },
+  "respuesta": {
+   "plan": "negocio",
+   "empresa_incluye": null,
+   "precio_mensual": 2390,
+   "total_mensual": 2390,
+   "lineas": [
+    [
+     "Tu asistente: 10 conversaciones al día en WhatsApp, Instagram, Messenger, Chat en tu página, Correo",
+     2390
+    ]
+   ],
+   "descuentos": {
+    "3": 2271,
+    "6": 2151,
+    "12": 2032
+   },
+   "recarga": {
+    "porcentaje": 50,
+    "precio": 390
+   },
+   "revisar": false,
+   "voz": null,
+   "video_ia": null,
+   "incluye": [
+    "Atiende en los canales que elijas, 24/7",
+    "Asistente del dueño: le pides cosas por chat",
+    "Bandeja de aprobaciones y botón de pausa",
+    "Reporte mensual en pesos"
+   ],
+   "permanencia_meses": 0
+  }
+ },
+ {
+  "grupo": "7. Sucursales",
+  "caso": "1",
+  "entrada": {
+   "giro": "Consultorio, clínica o dentista",
+   "conversaciones_dia": 10,
+   "canales": [
+    "whatsapp"
+   ],
+   "ticket_mxn": 1500,
+   "sucursales": 1,
+   "modulos": [],
+   "productos": 15,
+   "integraciones": [],
+   "agentes": 1,
+   "empleados": 1
+  },
+  "respuesta": {
+   "plan": "negocio",
+   "empresa_incluye": null,
+   "precio_mensual": 1590,
+   "total_mensual": 1590,
+   "lineas": [
+    [
+     "Tu asistente: 10 conversaciones al día en WhatsApp",
+     1590
+    ]
+   ],
+   "descuentos": {
+    "3": 1511,
+    "6": 1431,
+    "12": 1352
+   },
+   "recarga": {
+    "porcentaje": 50,
+    "precio": 390
+   },
+   "revisar": false,
+   "voz": null,
+   "video_ia": null,
+   "incluye": [
+    "Atiende en los canales que elijas, 24/7",
+    "Asistente del dueño: le pides cosas por chat",
+    "Bandeja de aprobaciones y botón de pausa",
+    "Reporte mensual en pesos"
+   ],
+   "permanencia_meses": 0
+  }
+ },
+ {
+  "grupo": "7. Sucursales",
+  "caso": "2",
+  "entrada": {
+   "giro": "Consultorio, clínica o dentista",
+   "conversaciones_dia": 10,
+   "canales": [
+    "whatsapp"
+   ],
+   "ticket_mxn": 1500,
+   "sucursales": 2,
+   "modulos": [],
+   "productos": 15,
+   "integraciones": [],
+   "agentes": 1,
+   "empleados": 1
+  },
+  "respuesta": {
+   "plan": "negocio",
+   "empresa_incluye": null,
+   "precio_mensual": 1790,
+   "total_mensual": 1790,
+   "lineas": [
+    [
+     "Tu asistente: 10 conversaciones al día en WhatsApp, 2 sucursales",
+     1790
+    ]
+   ],
+   "descuentos": {
+    "3": 1701,
+    "6": 1611,
+    "12": 1522
+   },
+   "recarga": {
+    "porcentaje": 50,
+    "precio": 390
+   },
+   "revisar": false,
+   "voz": null,
+   "video_ia": null,
+   "incluye": [
+    "Atiende en los canales que elijas, 24/7",
+    "Asistente del dueño: le pides cosas por chat",
+    "Bandeja de aprobaciones y botón de pausa",
+    "Reporte mensual en pesos"
+   ],
+   "permanencia_meses": 0
+  }
+ },
+ {
+  "grupo": "7. Sucursales",
+  "caso": "3",
+  "entrada": {
+   "giro": "Consultorio, clínica o dentista",
+   "conversaciones_dia": 10,
+   "canales": [
+    "whatsapp"
+   ],
+   "ticket_mxn": 1500,
+   "sucursales": 3,
+   "modulos": [],
+   "productos": 15,
+   "integraciones": [],
+   "agentes": 1,
+   "empleados": 1
+  },
+  "respuesta": {
+   "plan": "negocio",
+   "empresa_incluye": null,
+   "precio_mensual": 2690,
+   "total_mensual": 2690,
+   "lineas": [
+    [
+     "Tu asistente: 10 conversaciones al día en WhatsApp, 3 sucursales",
+     2690
+    ]
+   ],
+   "descuentos": {
+    "3": 2556,
+    "6": 2421,
+    "12": 2287
+   },
+   "recarga": {
+    "porcentaje": 50,
+    "precio": 490
+   },
+   "revisar": false,
+   "voz": null,
+   "video_ia": null,
+   "incluye": [
+    "Atiende en los canales que elijas, 24/7",
+    "Asistente del dueño: le pides cosas por chat",
+    "Bandeja de aprobaciones y botón de pausa",
+    "Reporte mensual en pesos"
+   ],
+   "permanencia_meses": 0
+  }
+ },
+ {
+  "grupo": "7. Sucursales",
+  "caso": "4",
+  "entrada": {
+   "giro": "Consultorio, clínica o dentista",
+   "conversaciones_dia": 10,
+   "canales": [
+    "whatsapp"
+   ],
+   "ticket_mxn": 1500,
+   "sucursales": 4,
+   "modulos": [],
+   "productos": 15,
+   "integraciones": [],
+   "agentes": 1,
+   "empleados": 1
+  },
+  "respuesta": {
+   "plan": "negocio",
+   "empresa_incluye": null,
+   "precio_mensual": 3690,
+   "total_mensual": 3690,
+   "lineas": [
+    [
+     "Tu asistente: 10 conversaciones al día en WhatsApp, 4 sucursales",
+     3690
+    ]
+   ],
+   "descuentos": {
+    "3": 3506,
+    "6": 3321,
+    "12": 3137
+   },
+   "recarga": {
+    "porcentaje": 50,
+    "precio": 590
+   },
+   "revisar": false,
+   "voz": null,
+   "video_ia": null,
+   "incluye": [
+    "Atiende en los canales que elijas, 24/7",
+    "Asistente del dueño: le pides cosas por chat",
+    "Bandeja de aprobaciones y botón de pausa",
+    "Reporte mensual en pesos"
+   ],
+   "permanencia_meses": 0
+  }
+ },
+ {
+  "grupo": "8. Cada integración",
+  "caso": "calendario",
+  "entrada": {
+   "giro": "Consultorio, clínica o dentista",
+   "conversaciones_dia": 10,
+   "canales": [
+    "whatsapp"
+   ],
+   "ticket_mxn": 1500,
+   "sucursales": 1,
+   "modulos": [],
+   "productos": 15,
+   "integraciones": [
+    "calendario"
+   ],
+   "agentes": 1,
+   "empleados": 1
+  },
+  "respuesta": {
+   "plan": "negocio",
+   "empresa_incluye": null,
+   "precio_mensual": 1790,
+   "total_mensual": 1790,
+   "lineas": [
+    [
+     "Tu asistente: 10 conversaciones al día en WhatsApp",
+     1590
+    ],
+    [
+     "Conexión con Google Calendar u otra agenda",
+     200
+    ]
+   ],
+   "descuentos": {
+    "3": 1701,
+    "6": 1611,
+    "12": 1522
+   },
+   "recarga": {
+    "porcentaje": 50,
+    "precio": 390
+   },
+   "revisar": false,
+   "voz": null,
+   "video_ia": null,
+   "incluye": [
+    "Atiende en los canales que elijas, 24/7",
+    "Asistente del dueño: le pides cosas por chat",
+    "Bandeja de aprobaciones y botón de pausa",
+    "Reporte mensual en pesos"
+   ],
+   "permanencia_meses": 0
+  }
+ },
+ {
+  "grupo": "8. Cada integración",
+  "caso": "hojas",
+  "entrada": {
+   "giro": "Consultorio, clínica o dentista",
+   "conversaciones_dia": 10,
+   "canales": [
+    "whatsapp"
+   ],
+   "ticket_mxn": 1500,
+   "sucursales": 1,
+   "modulos": [],
+   "productos": 15,
+   "integraciones": [
+    "hojas"
+   ],
+   "agentes": 1,
+   "empleados": 1
+  },
+  "respuesta": {
+   "plan": "negocio",
+   "empresa_incluye": null,
+   "precio_mensual": 1790,
+   "total_mensual": 1790,
+   "lineas": [
+    [
+     "Tu asistente: 10 conversaciones al día en WhatsApp",
+     1590
+    ],
+    [
+     "Conexión con Google Sheets o Excel",
+     200
+    ]
+   ],
+   "descuentos": {
+    "3": 1701,
+    "6": 1611,
+    "12": 1522
+   },
+   "recarga": {
+    "porcentaje": 50,
+    "precio": 390
+   },
+   "revisar": false,
+   "voz": null,
+   "video_ia": null,
+   "incluye": [
+    "Atiende en los canales que elijas, 24/7",
+    "Asistente del dueño: le pides cosas por chat",
+    "Bandeja de aprobaciones y botón de pausa",
+    "Reporte mensual en pesos"
+   ],
+   "permanencia_meses": 0
+  }
+ },
+ {
+  "grupo": "8. Cada integración",
+  "caso": "crm",
+  "entrada": {
+   "giro": "Consultorio, clínica o dentista",
+   "conversaciones_dia": 10,
+   "canales": [
+    "whatsapp"
+   ],
+   "ticket_mxn": 1500,
+   "sucursales": 1,
+   "modulos": [],
+   "productos": 15,
+   "integraciones": [
+    "crm"
+   ],
+   "agentes": 1,
+   "empleados": 1
+  },
+  "respuesta": {
+   "plan": "negocio",
+   "empresa_incluye": null,
+   "precio_mensual": 1790,
+   "total_mensual": 1790,
+   "lineas": [
+    [
+     "Tu asistente: 10 conversaciones al día en WhatsApp",
+     1590
+    ],
+    [
+     "Conexión con Tu CRM",
+     200
+    ]
+   ],
+   "descuentos": {
+    "3": 1701,
+    "6": 1611,
+    "12": 1522
+   },
+   "recarga": {
+    "porcentaje": 50,
+    "precio": 390
+   },
+   "revisar": false,
+   "voz": null,
+   "video_ia": null,
+   "incluye": [
+    "Atiende en los canales que elijas, 24/7",
+    "Asistente del dueño: le pides cosas por chat",
+    "Bandeja de aprobaciones y botón de pausa",
+    "Reporte mensual en pesos"
+   ],
+   "permanencia_meses": 0
+  }
+ },
+ {
+  "grupo": "8. Cada integración",
+  "caso": "pos",
+  "entrada": {
+   "giro": "Consultorio, clínica o dentista",
+   "conversaciones_dia": 10,
+   "canales": [
+    "whatsapp"
+   ],
+   "ticket_mxn": 1500,
+   "sucursales": 1,
+   "modulos": [],
+   "productos": 15,
+   "integraciones": [
+    "pos"
+   ],
+   "agentes": 1,
+   "empleados": 1
+  },
+  "respuesta": {
+   "plan": "negocio",
+   "empresa_incluye": null,
+   "precio_mensual": 1790,
+   "total_mensual": 1790,
+   "lineas": [
+    [
+     "Tu asistente: 10 conversaciones al día en WhatsApp",
+     1590
+    ],
+    [
+     "Conexión con Punto de venta o inventario",
+     200
+    ]
+   ],
+   "descuentos": {
+    "3": 1701,
+    "6": 1611,
+    "12": 1522
+   },
+   "recarga": {
+    "porcentaje": 50,
+    "precio": 390
+   },
+   "revisar": false,
+   "voz": null,
+   "video_ia": null,
+   "incluye": [
+    "Atiende en los canales que elijas, 24/7",
+    "Asistente del dueño: le pides cosas por chat",
+    "Bandeja de aprobaciones y botón de pausa",
+    "Reporte mensual en pesos"
+   ],
+   "permanencia_meses": 0
+  }
+ },
+ {
+  "grupo": "8. Cada integración",
+  "caso": "pagos",
+  "entrada": {
+   "giro": "Consultorio, clínica o dentista",
+   "conversaciones_dia": 10,
+   "canales": [
+    "whatsapp"
+   ],
+   "ticket_mxn": 1500,
+   "sucursales": 1,
+   "modulos": [],
+   "productos": 15,
+   "integraciones": [
+    "pagos"
+   ],
+   "agentes": 1,
+   "empleados": 1
+  },
+  "respuesta": {
+   "plan": "negocio",
+   "empresa_incluye": null,
+   "precio_mensual": 1790,
+   "total_mensual": 1790,
+   "lineas": [
+    [
+     "Tu asistente: 10 conversaciones al día en WhatsApp",
+     1590
+    ],
+    [
+     "Conexión con Enlaces de pago",
+     200
+    ]
+   ],
+   "descuentos": {
+    "3": 1701,
+    "6": 1611,
+    "12": 1522
+   },
+   "recarga": {
+    "porcentaje": 50,
+    "precio": 390
+   },
+   "revisar": false,
+   "voz": null,
+   "video_ia": null,
+   "incluye": [
+    "Atiende en los canales que elijas, 24/7",
+    "Asistente del dueño: le pides cosas por chat",
+    "Bandeja de aprobaciones y botón de pausa",
+    "Reporte mensual en pesos"
+   ],
+   "permanencia_meses": 0
+  }
+ },
+ {
+  "grupo": "8. Cada integración",
+  "caso": "sistema",
+  "entrada": {
+   "giro": "Consultorio, clínica o dentista",
+   "conversaciones_dia": 10,
+   "canales": [
+    "whatsapp"
+   ],
+   "ticket_mxn": 1500,
+   "sucursales": 1,
+   "modulos": [],
+   "productos": 15,
+   "integraciones": [
+    "sistema"
+   ],
+   "agentes": 1,
+   "empleados": 1
+  },
+  "respuesta": {
+   "plan": "negocio",
+   "empresa_incluye": null,
+   "precio_mensual": 1790,
+   "total_mensual": 1790,
+   "lineas": [
+    [
+     "Tu asistente: 10 conversaciones al día en WhatsApp",
+     1590
+    ],
+    [
+     "Conexión con Tu sistema propio (API)",
+     200
+    ]
+   ],
+   "descuentos": {
+    "3": 1701,
+    "6": 1611,
+    "12": 1522
+   },
+   "recarga": {
+    "porcentaje": 50,
+    "precio": 390
+   },
+   "revisar": false,
+   "voz": null,
+   "video_ia": null,
+   "incluye": [
+    "Atiende en los canales que elijas, 24/7",
+    "Asistente del dueño: le pides cosas por chat",
+    "Bandeja de aprobaciones y botón de pausa",
+    "Reporte mensual en pesos"
+   ],
+   "permanencia_meses": 0
+  }
+ },
+ {
+  "grupo": "8. Cada integración",
+  "caso": "todas",
+  "entrada": {
+   "giro": "Consultorio, clínica o dentista",
+   "conversaciones_dia": 10,
+   "canales": [
+    "whatsapp"
+   ],
+   "ticket_mxn": 1500,
+   "sucursales": 1,
+   "modulos": [],
+   "productos": 15,
+   "integraciones": [
+    "calendario",
+    "hojas",
+    "crm",
+    "pos",
+    "pagos",
+    "sistema"
+   ],
+   "agentes": 1,
+   "empleados": 1
+  },
+  "respuesta": {
+   "plan": "negocio",
+   "empresa_incluye": null,
+   "precio_mensual": 2590,
+   "total_mensual": 2590,
+   "lineas": [
+    [
+     "Tu asistente: 10 conversaciones al día en WhatsApp",
+     1590
+    ],
+    [
+     "Conexión con Google Calendar u otra agenda, Google Sheets o Excel, Tu CRM, Punto de venta o inventario, Enlaces de pago, Tu sistema propio (API)",
+     1000
+    ]
+   ],
+   "descuentos": {
+    "3": 2461,
+    "6": 2331,
+    "12": 2202
+   },
+   "recarga": {
+    "porcentaje": 50,
+    "precio": 390
+   },
+   "revisar": false,
+   "voz": null,
+   "video_ia": null,
+   "incluye": [
+    "Atiende en los canales que elijas, 24/7",
+    "Asistente del dueño: le pides cosas por chat",
+    "Bandeja de aprobaciones y botón de pausa",
+    "Reporte mensual en pesos"
+   ],
+   "permanencia_meses": 0
+  }
+ },
+ {
+  "grupo": "9. Tamaño (empleados)",
+  "caso": "1 personas",
+  "entrada": {
+   "giro": "Consultorio, clínica o dentista",
+   "conversaciones_dia": 10,
+   "canales": [
+    "whatsapp"
+   ],
+   "ticket_mxn": 1500,
+   "sucursales": 1,
+   "modulos": [],
+   "productos": 15,
+   "integraciones": [],
+   "agentes": 1,
+   "empleados": 1
+  },
+  "respuesta": {
+   "plan": "negocio",
+   "empresa_incluye": null,
+   "precio_mensual": 1590,
+   "total_mensual": 1590,
+   "lineas": [
+    [
+     "Tu asistente: 10 conversaciones al día en WhatsApp",
+     1590
+    ]
+   ],
+   "descuentos": {
+    "3": 1511,
+    "6": 1431,
+    "12": 1352
+   },
+   "recarga": {
+    "porcentaje": 50,
+    "precio": 390
+   },
+   "revisar": false,
+   "voz": null,
+   "video_ia": null,
+   "incluye": [
+    "Atiende en los canales que elijas, 24/7",
+    "Asistente del dueño: le pides cosas por chat",
+    "Bandeja de aprobaciones y botón de pausa",
+    "Reporte mensual en pesos"
+   ],
+   "permanencia_meses": 0
+  }
+ },
+ {
+  "grupo": "9. Tamaño (empleados)",
+  "caso": "3 personas",
+  "entrada": {
+   "giro": "Consultorio, clínica o dentista",
+   "conversaciones_dia": 10,
+   "canales": [
+    "whatsapp"
+   ],
+   "ticket_mxn": 1500,
+   "sucursales": 1,
+   "modulos": [],
+   "productos": 15,
+   "integraciones": [],
+   "agentes": 1,
+   "empleados": 3
+  },
+  "respuesta": {
+   "plan": "negocio",
+   "empresa_incluye": null,
+   "precio_mensual": 1590,
+   "total_mensual": 1590,
+   "lineas": [
+    [
+     "Tu asistente: 10 conversaciones al día en WhatsApp",
+     1590
+    ]
+   ],
+   "descuentos": {
+    "3": 1511,
+    "6": 1431,
+    "12": 1352
+   },
+   "recarga": {
+    "porcentaje": 50,
+    "precio": 390
+   },
+   "revisar": false,
+   "voz": null,
+   "video_ia": null,
+   "incluye": [
+    "Atiende en los canales que elijas, 24/7",
+    "Asistente del dueño: le pides cosas por chat",
+    "Bandeja de aprobaciones y botón de pausa",
+    "Reporte mensual en pesos"
+   ],
+   "permanencia_meses": 0
+  }
+ },
+ {
+  "grupo": "9. Tamaño (empleados)",
+  "caso": "10 personas",
+  "entrada": {
+   "giro": "Consultorio, clínica o dentista",
+   "conversaciones_dia": 10,
+   "canales": [
+    "whatsapp"
+   ],
+   "ticket_mxn": 1500,
+   "sucursales": 1,
+   "modulos": [],
+   "productos": 15,
+   "integraciones": [],
+   "agentes": 1,
+   "empleados": 10
+  },
+  "respuesta": {
+   "plan": "negocio",
+   "empresa_incluye": null,
+   "precio_mensual": 1590,
+   "total_mensual": 1590,
+   "lineas": [
+    [
+     "Tu asistente: 10 conversaciones al día en WhatsApp",
+     1590
+    ]
+   ],
+   "descuentos": {
+    "3": 1511,
+    "6": 1431,
+    "12": 1352
+   },
+   "recarga": {
+    "porcentaje": 50,
+    "precio": 390
+   },
+   "revisar": false,
+   "voz": null,
+   "video_ia": null,
+   "incluye": [
+    "Atiende en los canales que elijas, 24/7",
+    "Asistente del dueño: le pides cosas por chat",
+    "Bandeja de aprobaciones y botón de pausa",
+    "Reporte mensual en pesos"
+   ],
+   "permanencia_meses": 0
+  }
+ },
+ {
+  "grupo": "9. Tamaño (empleados)",
+  "caso": "30 personas",
+  "entrada": {
+   "giro": "Consultorio, clínica o dentista",
+   "conversaciones_dia": 10,
+   "canales": [
+    "whatsapp"
+   ],
+   "ticket_mxn": 1500,
+   "sucursales": 1,
+   "modulos": [],
+   "productos": 15,
+   "integraciones": [],
+   "agentes": 1,
+   "empleados": 30
+  },
+  "respuesta": {
+   "plan": "empresa",
+   "empresa_incluye": [
+    "Agente principal que coordina a tus agentes",
+    "Agentes de cotizaciones y de compras",
+    "Conexión a tu CRM o ERP",
+    "Soporte dedicado con SLA"
+   ],
+   "precio_mensual": 11290,
+   "total_mensual": 11290,
+   "lineas": [
+    [
+     "Plan Empresarial: orquestador central, conexión a CRM o ERP y soporte con SLA (10 conversaciones al día)",
+     11290
+    ]
+   ],
+   "descuentos": {
+    "3": 10726,
+    "6": 10161,
+    "12": 9597
+   },
+   "recarga": {
+    "porcentaje": 50,
+    "precio": 1790
+   },
+   "revisar": false,
+   "voz": null,
+   "video_ia": null,
+   "incluye": [
+    "Atiende en los canales que elijas, 24/7",
+    "Asistente del dueño: le pides cosas por chat",
+    "Bandeja de aprobaciones y botón de pausa",
+    "Reporte mensual en pesos"
+   ],
+   "permanencia_meses": 0
+  }
+ },
+ {
+  "grupo": "9. Tamaño (empleados)",
+  "caso": "80 personas",
+  "entrada": {
+   "giro": "Consultorio, clínica o dentista",
+   "conversaciones_dia": 10,
+   "canales": [
+    "whatsapp"
+   ],
+   "ticket_mxn": 1500,
+   "sucursales": 1,
+   "modulos": [],
+   "productos": 15,
+   "integraciones": [],
+   "agentes": 1,
+   "empleados": 80
+  },
+  "respuesta": {
+   "plan": "empresa",
+   "empresa_incluye": [
+    "Agente principal que coordina a tus agentes",
+    "Agentes de cotizaciones y de compras",
+    "Conexión a tu CRM o ERP",
+    "Soporte dedicado con SLA"
+   ],
+   "precio_mensual": 11290,
+   "total_mensual": 11290,
+   "lineas": [
+    [
+     "Plan Empresarial: orquestador central, conexión a CRM o ERP y soporte con SLA (10 conversaciones al día)",
+     11290
+    ]
+   ],
+   "descuentos": {
+    "3": 10726,
+    "6": 10161,
+    "12": 9597
+   },
+   "recarga": {
+    "porcentaje": 50,
+    "precio": 1790
+   },
+   "revisar": false,
+   "voz": null,
+   "video_ia": null,
+   "incluye": [
+    "Atiende en los canales que elijas, 24/7",
+    "Asistente del dueño: le pides cosas por chat",
+    "Bandeja de aprobaciones y botón de pausa",
+    "Reporte mensual en pesos"
+   ],
+   "permanencia_meses": 0
+  }
+ },
+ {
+  "grupo": "10. Voz: llamadas/día",
+  "caso": "4 llamadas/día",
+  "entrada": {
+   "giro": "Consultorio, clínica o dentista",
+   "conversaciones_dia": 10,
+   "canales": [
+    "whatsapp"
+   ],
+   "ticket_mxn": 1500,
+   "sucursales": 1,
+   "modulos": [],
+   "productos": 15,
+   "integraciones": [],
+   "agentes": 1,
+   "empleados": 1,
+   "llamadas_dia": 4
+  },
+  "respuesta": {
+   "plan": "negocio",
+   "empresa_incluye": null,
+   "precio_mensual": 1590,
+   "total_mensual": 4780,
+   "lineas": [
+    [
+     "Tu asistente: 10 conversaciones al día en WhatsApp",
+     1590
+    ]
+   ],
+   "descuentos": {
+    "3": 1511,
+    "6": 1431,
+    "12": 1352
+   },
+   "recarga": {
+    "porcentaje": 50,
+    "precio": 390
+   },
+   "revisar": false,
+   "voz": {
+    "nombre": "Agente de voz",
+    "minutos": 600,
+    "precio": 3190,
+    "minuto_extra": 5.9,
+    "a_la_medida": false
+   },
+   "video_ia": null,
+   "incluye": [
+    "Atiende en los canales que elijas, 24/7",
+    "Asistente del dueño: le pides cosas por chat",
+    "Bandeja de aprobaciones y botón de pausa",
+    "Reporte mensual en pesos"
+   ],
+   "permanencia_meses": 0
+  }
+ },
+ {
+  "grupo": "10. Voz: llamadas/día",
+  "caso": "10 llamadas/día",
+  "entrada": {
+   "giro": "Consultorio, clínica o dentista",
+   "conversaciones_dia": 10,
+   "canales": [
+    "whatsapp"
+   ],
+   "ticket_mxn": 1500,
+   "sucursales": 1,
+   "modulos": [],
+   "productos": 15,
+   "integraciones": [],
+   "agentes": 1,
+   "empleados": 1,
+   "llamadas_dia": 10
+  },
+  "respuesta": {
+   "plan": "negocio",
+   "empresa_incluye": null,
+   "precio_mensual": 1590,
+   "total_mensual": 8980,
+   "lineas": [
+    [
+     "Tu asistente: 10 conversaciones al día en WhatsApp",
+     1590
+    ]
+   ],
+   "descuentos": {
+    "3": 1511,
+    "6": 1431,
+    "12": 1352
+   },
+   "recarga": {
+    "porcentaje": 50,
+    "precio": 390
+   },
+   "revisar": false,
+   "voz": {
+    "nombre": "Agente de voz",
+    "minutos": 1500,
+    "precio": 7390,
+    "minuto_extra": 5.9,
+    "a_la_medida": false
+   },
+   "video_ia": null,
+   "incluye": [
+    "Atiende en los canales que elijas, 24/7",
+    "Asistente del dueño: le pides cosas por chat",
+    "Bandeja de aprobaciones y botón de pausa",
+    "Reporte mensual en pesos"
+   ],
+   "permanencia_meses": 0
+  }
+ },
+ {
+  "grupo": "10. Voz: llamadas/día",
+  "caso": "22 llamadas/día",
+  "entrada": {
+   "giro": "Consultorio, clínica o dentista",
+   "conversaciones_dia": 10,
+   "canales": [
+    "whatsapp"
+   ],
+   "ticket_mxn": 1500,
+   "sucursales": 1,
+   "modulos": [],
+   "productos": 15,
+   "integraciones": [],
+   "agentes": 1,
+   "empleados": 1,
+   "llamadas_dia": 22
+  },
+  "respuesta": {
+   "plan": "negocio",
+   "empresa_incluye": null,
+   "precio_mensual": 1590,
+   "total_mensual": 15980,
+   "lineas": [
+    [
+     "Tu asistente: 10 conversaciones al día en WhatsApp",
+     1590
+    ]
+   ],
+   "descuentos": {
+    "3": 1511,
+    "6": 1431,
+    "12": 1352
+   },
+   "recarga": {
+    "porcentaje": 50,
+    "precio": 390
+   },
+   "revisar": false,
+   "voz": {
+    "nombre": "Agente de voz",
+    "minutos": 3000,
+    "precio": 14390,
+    "minuto_extra": 5.9,
+    "a_la_medida": false
+   },
+   "video_ia": null,
+   "incluye": [
+    "Atiende en los canales que elijas, 24/7",
+    "Asistente del dueño: le pides cosas por chat",
+    "Bandeja de aprobaciones y botón de pausa",
+    "Reporte mensual en pesos"
+   ],
+   "permanencia_meses": 0
+  }
+ },
+ {
+  "grupo": "10. Voz: llamadas/día",
+  "caso": "40 llamadas/día",
+  "entrada": {
+   "giro": "Consultorio, clínica o dentista",
+   "conversaciones_dia": 10,
+   "canales": [
+    "whatsapp"
+   ],
+   "ticket_mxn": 1500,
+   "sucursales": 1,
+   "modulos": [],
+   "productos": 15,
+   "integraciones": [],
+   "agentes": 1,
+   "empleados": 1,
+   "llamadas_dia": 40
+  },
+  "respuesta": {
+   "plan": "negocio",
+   "empresa_incluye": null,
+   "precio_mensual": 1590,
+   "total_mensual": 23080,
+   "lineas": [
+    [
+     "Tu asistente: 10 conversaciones al día en WhatsApp",
+     1590
+    ]
+   ],
+   "descuentos": {
+    "3": 1511,
+    "6": 1431,
+    "12": 1352
+   },
+   "recarga": {
+    "porcentaje": 50,
+    "precio": 390
+   },
+   "revisar": true,
+   "voz": {
+    "nombre": "Agente de voz",
+    "minutos": 4500,
+    "precio": 21490,
+    "minuto_extra": 5.9,
+    "a_la_medida": true
+   },
+   "video_ia": null,
+   "incluye": [
+    "Atiende en los canales que elijas, 24/7",
+    "Asistente del dueño: le pides cosas por chat",
+    "Bandeja de aprobaciones y botón de pausa",
+    "Reporte mensual en pesos"
+   ],
+   "permanencia_meses": 0
+  }
+ },
+ {
+  "grupo": "11. Videos IA/mes",
+  "caso": "2 videos",
+  "entrada": {
+   "giro": "Consultorio, clínica o dentista",
+   "conversaciones_dia": 10,
+   "canales": [
+    "whatsapp"
+   ],
+   "ticket_mxn": 1500,
+   "sucursales": 1,
+   "modulos": [],
+   "productos": 15,
+   "integraciones": [],
+   "agentes": 1,
+   "empleados": 1,
+   "videos_ia_mes": 2,
+   "video_segundos": 30
+  },
+  "respuesta": {
+   "plan": "negocio",
+   "empresa_incluye": null,
+   "precio_mensual": 1590,
+   "total_mensual": 2280,
+   "lineas": [
+    [
+     "Tu asistente: 10 conversaciones al día en WhatsApp",
+     1590
+    ]
+   ],
+   "descuentos": {
+    "3": 1511,
+    "6": 1431,
+    "12": 1352
+   },
+   "recarga": {
+    "porcentaje": 50,
+    "precio": 390
+   },
+   "revisar": false,
+   "voz": null,
+   "video_ia": {
+    "nombre": "Videos con IA",
+    "videos": 2,
+    "segundos": 30,
+    "precio": 690,
+    "video_extra": 390,
+    "a_la_medida": false
+   },
+   "incluye": [
+    "Atiende en los canales que elijas, 24/7",
+    "Asistente del dueño: le pides cosas por chat",
+    "Bandeja de aprobaciones y botón de pausa",
+    "Reporte mensual en pesos"
+   ],
+   "permanencia_meses": 0
+  }
+ },
+ {
+  "grupo": "11. Videos IA/mes",
+  "caso": "4 videos",
+  "entrada": {
+   "giro": "Consultorio, clínica o dentista",
+   "conversaciones_dia": 10,
+   "canales": [
+    "whatsapp"
+   ],
+   "ticket_mxn": 1500,
+   "sucursales": 1,
+   "modulos": [],
+   "productos": 15,
+   "integraciones": [],
+   "agentes": 1,
+   "empleados": 1,
+   "videos_ia_mes": 4,
+   "video_segundos": 30
+  },
+  "respuesta": {
+   "plan": "negocio",
+   "empresa_incluye": null,
+   "precio_mensual": 1590,
+   "total_mensual": 2680,
+   "lineas": [
+    [
+     "Tu asistente: 10 conversaciones al día en WhatsApp",
+     1590
+    ]
+   ],
+   "descuentos": {
+    "3": 1511,
+    "6": 1431,
+    "12": 1352
+   },
+   "recarga": {
+    "porcentaje": 50,
+    "precio": 390
+   },
+   "revisar": false,
+   "voz": null,
+   "video_ia": {
+    "nombre": "Videos con IA",
+    "videos": 4,
+    "segundos": 30,
+    "precio": 1090,
+    "video_extra": 390,
+    "a_la_medida": false
+   },
+   "incluye": [
+    "Atiende en los canales que elijas, 24/7",
+    "Asistente del dueño: le pides cosas por chat",
+    "Bandeja de aprobaciones y botón de pausa",
+    "Reporte mensual en pesos"
+   ],
+   "permanencia_meses": 0
+  }
+ },
+ {
+  "grupo": "11. Videos IA/mes",
+  "caso": "8 videos",
+  "entrada": {
+   "giro": "Consultorio, clínica o dentista",
+   "conversaciones_dia": 10,
+   "canales": [
+    "whatsapp"
+   ],
+   "ticket_mxn": 1500,
+   "sucursales": 1,
+   "modulos": [],
+   "productos": 15,
+   "integraciones": [],
+   "agentes": 1,
+   "empleados": 1,
+   "videos_ia_mes": 8,
+   "video_segundos": 30
+  },
+  "respuesta": {
+   "plan": "negocio",
+   "empresa_incluye": null,
+   "precio_mensual": 1590,
+   "total_mensual": 3480,
+   "lineas": [
+    [
+     "Tu asistente: 10 conversaciones al día en WhatsApp",
+     1590
+    ]
+   ],
+   "descuentos": {
+    "3": 1511,
+    "6": 1431,
+    "12": 1352
+   },
+   "recarga": {
+    "porcentaje": 50,
+    "precio": 390
+   },
+   "revisar": false,
+   "voz": null,
+   "video_ia": {
+    "nombre": "Videos con IA",
+    "videos": 8,
+    "segundos": 30,
+    "precio": 1890,
+    "video_extra": 390,
+    "a_la_medida": false
+   },
+   "incluye": [
+    "Atiende en los canales que elijas, 24/7",
+    "Asistente del dueño: le pides cosas por chat",
+    "Bandeja de aprobaciones y botón de pausa",
+    "Reporte mensual en pesos"
+   ],
+   "permanencia_meses": 0
+  }
+ },
+ {
+  "grupo": "11. Videos IA/mes",
+  "caso": "16 videos",
+  "entrada": {
+   "giro": "Consultorio, clínica o dentista",
+   "conversaciones_dia": 10,
+   "canales": [
+    "whatsapp"
+   ],
+   "ticket_mxn": 1500,
+   "sucursales": 1,
+   "modulos": [],
+   "productos": 15,
+   "integraciones": [],
+   "agentes": 1,
+   "empleados": 1,
+   "videos_ia_mes": 16,
+   "video_segundos": 30
+  },
+  "respuesta": {
+   "plan": "negocio",
+   "empresa_incluye": null,
+   "precio_mensual": 1590,
+   "total_mensual": 5080,
+   "lineas": [
+    [
+     "Tu asistente: 10 conversaciones al día en WhatsApp",
+     1590
+    ]
+   ],
+   "descuentos": {
+    "3": 1511,
+    "6": 1431,
+    "12": 1352
+   },
+   "recarga": {
+    "porcentaje": 50,
+    "precio": 390
+   },
+   "revisar": false,
+   "voz": null,
+   "video_ia": {
+    "nombre": "Videos con IA",
+    "videos": 16,
+    "segundos": 30,
+    "precio": 3490,
+    "video_extra": 390,
+    "a_la_medida": false
+   },
+   "incluye": [
+    "Atiende en los canales que elijas, 24/7",
+    "Asistente del dueño: le pides cosas por chat",
+    "Bandeja de aprobaciones y botón de pausa",
+    "Reporte mensual en pesos"
+   ],
+   "permanencia_meses": 0
+  }
+ },
+ {
+  "grupo": "12. Ticket promedio",
+  "caso": "$200",
+  "entrada": {
+   "giro": "Consultorio, clínica o dentista",
+   "conversaciones_dia": 10,
+   "canales": [
+    "whatsapp"
+   ],
+   "ticket_mxn": 200,
+   "sucursales": 1,
+   "modulos": [],
+   "productos": 15,
+   "integraciones": [],
+   "agentes": 1,
+   "empleados": 1
+  },
+  "respuesta": {
+   "plan": "negocio",
+   "empresa_incluye": null,
+   "precio_mensual": 1490,
+   "total_mensual": 1490,
+   "lineas": [
+    [
+     "Tu asistente: 10 conversaciones al día en WhatsApp",
+     1490
+    ]
+   ],
+   "descuentos": {
+    "3": 1416,
+    "6": 1341,
+    "12": 1267
+   },
+   "recarga": {
+    "porcentaje": 50,
+    "precio": 390
+   },
+   "revisar": false,
+   "voz": null,
+   "video_ia": null,
+   "incluye": [
+    "Atiende en los canales que elijas, 24/7",
+    "Asistente del dueño: le pides cosas por chat",
+    "Bandeja de aprobaciones y botón de pausa",
+    "Reporte mensual en pesos"
+   ],
+   "permanencia_meses": 0
+  }
+ },
+ {
+  "grupo": "12. Ticket promedio",
+  "caso": "$650",
+  "entrada": {
+   "giro": "Consultorio, clínica o dentista",
+   "conversaciones_dia": 10,
+   "canales": [
+    "whatsapp"
+   ],
+   "ticket_mxn": 650,
+   "sucursales": 1,
+   "modulos": [],
+   "productos": 15,
+   "integraciones": [],
+   "agentes": 1,
+   "empleados": 1
+  },
+  "respuesta": {
+   "plan": "negocio",
+   "empresa_incluye": null,
+   "precio_mensual": 1590,
+   "total_mensual": 1590,
+   "lineas": [
+    [
+     "Tu asistente: 10 conversaciones al día en WhatsApp",
+     1590
+    ]
+   ],
+   "descuentos": {
+    "3": 1511,
+    "6": 1431,
+    "12": 1352
+   },
+   "recarga": {
+    "porcentaje": 50,
+    "precio": 390
+   },
+   "revisar": false,
+   "voz": null,
+   "video_ia": null,
+   "incluye": [
+    "Atiende en los canales que elijas, 24/7",
+    "Asistente del dueño: le pides cosas por chat",
+    "Bandeja de aprobaciones y botón de pausa",
+    "Reporte mensual en pesos"
+   ],
+   "permanencia_meses": 0
+  }
+ },
+ {
+  "grupo": "12. Ticket promedio",
+  "caso": "$2,500",
+  "entrada": {
+   "giro": "Consultorio, clínica o dentista",
+   "conversaciones_dia": 10,
+   "canales": [
+    "whatsapp"
+   ],
+   "ticket_mxn": 2500,
+   "sucursales": 1,
+   "modulos": [],
+   "productos": 15,
+   "integraciones": [],
+   "agentes": 1,
+   "empleados": 1
+  },
+  "respuesta": {
+   "plan": "negocio",
+   "empresa_incluye": null,
+   "precio_mensual": 1590,
+   "total_mensual": 1590,
+   "lineas": [
+    [
+     "Tu asistente: 10 conversaciones al día en WhatsApp",
+     1590
+    ]
+   ],
+   "descuentos": {
+    "3": 1511,
+    "6": 1431,
+    "12": 1352
+   },
+   "recarga": {
+    "porcentaje": 50,
+    "precio": 390
+   },
+   "revisar": false,
+   "voz": null,
+   "video_ia": null,
+   "incluye": [
+    "Atiende en los canales que elijas, 24/7",
+    "Asistente del dueño: le pides cosas por chat",
+    "Bandeja de aprobaciones y botón de pausa",
+    "Reporte mensual en pesos"
+   ],
+   "permanencia_meses": 0
+  }
+ },
+ {
+  "grupo": "12. Ticket promedio",
+  "caso": "$10,000",
+  "entrada": {
+   "giro": "Consultorio, clínica o dentista",
+   "conversaciones_dia": 10,
+   "canales": [
+    "whatsapp"
+   ],
+   "ticket_mxn": 10000,
+   "sucursales": 1,
+   "modulos": [],
+   "productos": 15,
+   "integraciones": [],
+   "agentes": 1,
+   "empleados": 1
+  },
+  "respuesta": {
+   "plan": "negocio",
+   "empresa_incluye": null,
+   "precio_mensual": 1590,
+   "total_mensual": 1590,
+   "lineas": [
+    [
+     "Tu asistente: 10 conversaciones al día en WhatsApp",
+     1590
+    ]
+   ],
+   "descuentos": {
+    "3": 1511,
+    "6": 1431,
+    "12": 1352
+   },
+   "recarga": {
+    "porcentaje": 50,
+    "precio": 390
+   },
+   "revisar": false,
+   "voz": null,
+   "video_ia": null,
+   "incluye": [
+    "Atiende en los canales que elijas, 24/7",
+    "Asistente del dueño: le pides cosas por chat",
+    "Bandeja de aprobaciones y botón de pausa",
+    "Reporte mensual en pesos"
+   ],
+   "permanencia_meses": 0
+  }
+ },
+ {
+  "grupo": "12. Ticket promedio",
+  "caso": "$50,000",
+  "entrada": {
+   "giro": "Consultorio, clínica o dentista",
+   "conversaciones_dia": 10,
+   "canales": [
+    "whatsapp"
+   ],
+   "ticket_mxn": 50000,
+   "sucursales": 1,
+   "modulos": [],
+   "productos": 15,
+   "integraciones": [],
+   "agentes": 1,
+   "empleados": 1
+  },
+  "respuesta": {
+   "plan": "negocio",
+   "empresa_incluye": null,
+   "precio_mensual": 1690,
+   "total_mensual": 1690,
+   "lineas": [
+    [
+     "Tu asistente: 10 conversaciones al día en WhatsApp",
+     1690
+    ]
+   ],
+   "descuentos": {
+    "3": 1606,
+    "6": 1521,
+    "12": 1437
+   },
+   "recarga": {
+    "porcentaje": 50,
+    "precio": 390
+   },
+   "revisar": false,
+   "voz": null,
+   "video_ia": null,
+   "incluye": [
+    "Atiende en los canales que elijas, 24/7",
+    "Asistente del dueño: le pides cosas por chat",
+    "Bandeja de aprobaciones y botón de pausa",
+    "Reporte mensual en pesos"
+   ],
+   "permanencia_meses": 0
+  }
+ },
+ {
+  "grupo": "13. Giro (misma config: 25 conv, agenda+ventas)",
+  "caso": "Consultorio, clínica o dentista",
+  "entrada": {
+   "giro": "Consultorio, clínica o dentista",
+   "conversaciones_dia": 25,
+   "canales": [
+    "whatsapp"
+   ],
+   "ticket_mxn": 1500,
+   "sucursales": 1,
+   "modulos": [
+    "agenda",
+    "ventas"
+   ],
+   "productos": 15,
+   "integraciones": [],
+   "agentes": 1,
+   "empleados": 1
+  },
+  "respuesta": {
+   "plan": "negocio",
+   "empresa_incluye": null,
+   "precio_mensual": 2290,
+   "total_mensual": 2290,
+   "lineas": [
+    [
+     "Tu asistente: 25 conversaciones al día en WhatsApp",
+     1990
+    ],
+    [
+     "Agenda y recordatorios",
+     0
+    ],
+    [
+     "Ventas y seguimiento",
+     300
+    ]
+   ],
+   "descuentos": {
+    "3": 2176,
+    "6": 2061,
+    "12": 1947
+   },
+   "recarga": {
+    "porcentaje": 50,
+    "precio": 690
+   },
+   "revisar": false,
+   "voz": null,
+   "video_ia": null,
+   "incluye": [
+    "Atiende en los canales que elijas, 24/7",
+    "Asistente del dueño: le pides cosas por chat",
+    "Bandeja de aprobaciones y botón de pausa",
+    "Reporte mensual en pesos"
+   ],
+   "permanencia_meses": 0
+  }
+ },
+ {
+  "grupo": "13. Giro (misma config: 25 conv, agenda+ventas)",
+  "caso": "Estética, spa o barbería",
+  "entrada": {
+   "giro": "Estética, spa o barbería",
+   "conversaciones_dia": 25,
+   "canales": [
+    "whatsapp"
+   ],
+   "ticket_mxn": 700,
+   "sucursales": 1,
+   "modulos": [
+    "agenda",
+    "ventas"
+   ],
+   "productos": 15,
+   "integraciones": [],
+   "agentes": 1,
+   "empleados": 1
+  },
+  "respuesta": {
+   "plan": "negocio",
+   "empresa_incluye": null,
+   "precio_mensual": 2290,
+   "total_mensual": 2290,
+   "lineas": [
+    [
+     "Tu asistente: 25 conversaciones al día en WhatsApp",
+     1890
+    ],
+    [
+     "Agenda y recordatorios",
+     100
+    ],
+    [
+     "Ventas y seguimiento",
+     300
+    ]
+   ],
+   "descuentos": {
+    "3": 2176,
+    "6": 2061,
+    "12": 1947
+   },
+   "recarga": {
+    "porcentaje": 50,
+    "precio": 690
+   },
+   "revisar": false,
+   "voz": null,
+   "video_ia": null,
+   "incluye": [
+    "Atiende en los canales que elijas, 24/7",
+    "Asistente del dueño: le pides cosas por chat",
+    "Bandeja de aprobaciones y botón de pausa",
+    "Reporte mensual en pesos"
+   ],
+   "permanencia_meses": 0
+  }
+ },
+ {
+  "grupo": "13. Giro (misma config: 25 conv, agenda+ventas)",
+  "caso": "Restaurante, café o comida",
+  "entrada": {
+   "giro": "Restaurante, café o comida",
+   "conversaciones_dia": 25,
+   "canales": [
+    "whatsapp"
+   ],
+   "ticket_mxn": 300,
+   "sucursales": 1,
+   "modulos": [
+    "agenda",
+    "ventas"
+   ],
+   "productos": 60,
+   "integraciones": [],
+   "agentes": 1,
+   "empleados": 1
+  },
+  "respuesta": {
+   "plan": "negocio",
+   "empresa_incluye": null,
+   "precio_mensual": 2290,
+   "total_mensual": 2290,
+   "lineas": [
+    [
+     "Tu asistente: 25 conversaciones al día en WhatsApp",
+     1890
+    ],
+    [
+     "Agenda y recordatorios",
+     100
+    ],
+    [
+     "Ventas y seguimiento",
+     300
+    ]
+   ],
+   "descuentos": {
+    "3": 2176,
+    "6": 2061,
+    "12": 1947
+   },
+   "recarga": {
+    "porcentaje": 50,
+    "precio": 790
+   },
+   "revisar": false,
+   "voz": null,
+   "video_ia": null,
+   "incluye": [
+    "Atiende en los canales que elijas, 24/7",
+    "Asistente del dueño: le pides cosas por chat",
+    "Bandeja de aprobaciones y botón de pausa",
+    "Reporte mensual en pesos"
+   ],
+   "permanencia_meses": 0
+  }
+ },
+ {
+  "grupo": "13. Giro (misma config: 25 conv, agenda+ventas)",
+  "caso": "Inmobiliaria o bienes raíces",
+  "entrada": {
+   "giro": "Inmobiliaria o bienes raíces",
+   "conversaciones_dia": 25,
+   "canales": [
+    "whatsapp"
+   ],
+   "ticket_mxn": 50000,
+   "sucursales": 1,
+   "modulos": [
+    "agenda",
+    "ventas"
+   ],
+   "productos": 60,
+   "integraciones": [],
+   "agentes": 1,
+   "empleados": 1
+  },
+  "respuesta": {
+   "plan": "negocio",
+   "empresa_incluye": null,
+   "precio_mensual": 2490,
+   "total_mensual": 2490,
+   "lineas": [
+    [
+     "Tu asistente: 25 conversaciones al día en WhatsApp",
+     2090
+    ],
+    [
+     "Agenda y recordatorios",
+     100
+    ],
+    [
+     "Ventas y seguimiento",
+     300
+    ]
+   ],
+   "descuentos": {
+    "3": 2366,
+    "6": 2241,
+    "12": 2117
+   },
+   "recarga": {
+    "porcentaje": 50,
+    "precio": 790
+   },
+   "revisar": false,
+   "voz": null,
+   "video_ia": null,
+   "incluye": [
+    "Atiende en los canales que elijas, 24/7",
+    "Asistente del dueño: le pides cosas por chat",
+    "Bandeja de aprobaciones y botón de pausa",
+    "Reporte mensual en pesos"
+   ],
+   "permanencia_meses": 0
+  }
+ },
+ {
+  "grupo": "13. Giro (misma config: 25 conv, agenda+ventas)",
+  "caso": "Despacho legal, contable o notaría",
+  "entrada": {
+   "giro": "Despacho legal, contable o notaría",
+   "conversaciones_dia": 25,
+   "canales": [
+    "whatsapp"
+   ],
+   "ticket_mxn": 8000,
+   "sucursales": 1,
+   "modulos": [
+    "agenda",
+    "ventas"
+   ],
+   "productos": 15,
+   "integraciones": [],
+   "agentes": 1,
+   "empleados": 1
+  },
+  "respuesta": {
+   "plan": "negocio",
+   "empresa_incluye": null,
+   "precio_mensual": 2390,
+   "total_mensual": 2390,
+   "lineas": [
+    [
+     "Tu asistente: 25 conversaciones al día en WhatsApp",
+     1990
+    ],
+    [
+     "Agenda y recordatorios",
+     100
+    ],
+    [
+     "Ventas y seguimiento",
+     300
+    ]
+   ],
+   "descuentos": {
+    "3": 2271,
+    "6": 2151,
+    "12": 2032
+   },
+   "recarga": {
+    "porcentaje": 50,
+    "precio": 690
+   },
+   "revisar": false,
+   "voz": null,
+   "video_ia": null,
+   "incluye": [
+    "Atiende en los canales que elijas, 24/7",
+    "Asistente del dueño: le pides cosas por chat",
+    "Bandeja de aprobaciones y botón de pausa",
+    "Reporte mensual en pesos"
+   ],
+   "permanencia_meses": 0
+  }
+ },
+ {
+  "grupo": "13. Giro (misma config: 25 conv, agenda+ventas)",
+  "caso": "Taller o servicio automotriz",
+  "entrada": {
+   "giro": "Taller o servicio automotriz",
+   "conversaciones_dia": 25,
+   "canales": [
+    "whatsapp"
+   ],
+   "ticket_mxn": 2000,
+   "sucursales": 1,
+   "modulos": [
+    "agenda",
+    "ventas"
+   ],
+   "productos": 60,
+   "integraciones": [],
+   "agentes": 1,
+   "empleados": 1
+  },
+  "respuesta": {
+   "plan": "negocio",
+   "empresa_incluye": null,
+   "precio_mensual": 2390,
+   "total_mensual": 2390,
+   "lineas": [
+    [
+     "Tu asistente: 25 conversaciones al día en WhatsApp",
+     1990
+    ],
+    [
+     "Agenda y recordatorios",
+     100
+    ],
+    [
+     "Ventas y seguimiento",
+     300
+    ]
+   ],
+   "descuentos": {
+    "3": 2271,
+    "6": 2151,
+    "12": 2032
+   },
+   "recarga": {
+    "porcentaje": 50,
+    "precio": 790
+   },
+   "revisar": false,
+   "voz": null,
+   "video_ia": null,
+   "incluye": [
+    "Atiende en los canales que elijas, 24/7",
+    "Asistente del dueño: le pides cosas por chat",
+    "Bandeja de aprobaciones y botón de pausa",
+    "Reporte mensual en pesos"
+   ],
+   "permanencia_meses": 0
+  }
+ },
+ {
+  "grupo": "13. Giro (misma config: 25 conv, agenda+ventas)",
+  "caso": "Escuela, academia o cursos",
+  "entrada": {
+   "giro": "Escuela, academia o cursos",
+   "conversaciones_dia": 25,
+   "canales": [
+    "whatsapp"
+   ],
+   "ticket_mxn": 2500,
+   "sucursales": 1,
+   "modulos": [
+    "agenda",
+    "ventas"
+   ],
+   "productos": 15,
+   "integraciones": [],
+   "agentes": 1,
+   "empleados": 1
+  },
+  "respuesta": {
+   "plan": "negocio",
+   "empresa_incluye": null,
+   "precio_mensual": 2290,
+   "total_mensual": 2290,
+   "lineas": [
+    [
+     "Tu asistente: 25 conversaciones al día en WhatsApp",
+     1990
+    ],
+    [
+     "Agenda y recordatorios",
+     0
+    ],
+    [
+     "Ventas y seguimiento",
+     300
+    ]
+   ],
+   "descuentos": {
+    "3": 2176,
+    "6": 2061,
+    "12": 1947
+   },
+   "recarga": {
+    "porcentaje": 50,
+    "precio": 690
+   },
+   "revisar": false,
+   "voz": null,
+   "video_ia": null,
+   "incluye": [
+    "Atiende en los canales que elijas, 24/7",
+    "Asistente del dueño: le pides cosas por chat",
+    "Bandeja de aprobaciones y botón de pausa",
+    "Reporte mensual en pesos"
+   ],
+   "permanencia_meses": 0
+  }
+ },
+ {
+  "grupo": "13. Giro (misma config: 25 conv, agenda+ventas)",
+  "caso": "Tienda física o en línea",
+  "entrada": {
+   "giro": "Tienda física o en línea",
+   "conversaciones_dia": 25,
+   "canales": [
+    "whatsapp"
+   ],
+   "ticket_mxn": 700,
+   "sucursales": 1,
+   "modulos": [
+    "agenda",
+    "ventas"
+   ],
+   "productos": 300,
+   "integraciones": [],
+   "agentes": 1,
+   "empleados": 1
+  },
+  "respuesta": {
+   "plan": "negocio",
+   "empresa_incluye": null,
+   "precio_mensual": 2490,
+   "total_mensual": 2490,
+   "lineas": [
+    [
+     "Tu asistente: 25 conversaciones al día en WhatsApp",
+     2090
+    ],
+    [
+     "Agenda y recordatorios",
+     0
+    ],
+    [
+     "Ventas y seguimiento",
+     400
+    ]
+   ],
+   "descuentos": {
+    "3": 2366,
+    "6": 2241,
+    "12": 2117
+   },
+   "recarga": {
+    "porcentaje": 50,
+    "precio": 790
+   },
+   "revisar": false,
+   "voz": null,
+   "video_ia": null,
+   "incluye": [
+    "Atiende en los canales que elijas, 24/7",
+    "Asistente del dueño: le pides cosas por chat",
+    "Bandeja de aprobaciones y botón de pausa",
+    "Reporte mensual en pesos"
+   ],
+   "permanencia_meses": 0
+  }
+ },
+ {
+  "grupo": "13. Giro (misma config: 25 conv, agenda+ventas)",
+  "caso": "Gimnasio, yoga o deportes",
+  "entrada": {
+   "giro": "Gimnasio, yoga o deportes",
+   "conversaciones_dia": 25,
+   "canales": [
+    "whatsapp"
+   ],
+   "ticket_mxn": 800,
+   "sucursales": 1,
+   "modulos": [
+    "agenda",
+    "ventas"
+   ],
+   "productos": 15,
+   "integraciones": [],
+   "agentes": 1,
+   "empleados": 1
+  },
+  "respuesta": {
+   "plan": "negocio",
+   "empresa_incluye": null,
+   "precio_mensual": 2290,
+   "total_mensual": 2290,
+   "lineas": [
+    [
+     "Tu asistente: 25 conversaciones al día en WhatsApp",
+     1890
+    ],
+    [
+     "Agenda y recordatorios",
+     100
+    ],
+    [
+     "Ventas y seguimiento",
+     300
+    ]
+   ],
+   "descuentos": {
+    "3": 2176,
+    "6": 2061,
+    "12": 1947
+   },
+   "recarga": {
+    "porcentaje": 50,
+    "precio": 690
+   },
+   "revisar": false,
+   "voz": null,
+   "video_ia": null,
+   "incluye": [
+    "Atiende en los canales que elijas, 24/7",
+    "Asistente del dueño: le pides cosas por chat",
+    "Bandeja de aprobaciones y botón de pausa",
+    "Reporte mensual en pesos"
+   ],
+   "permanencia_meses": 0
+  }
+ },
+ {
+  "grupo": "13. Giro (misma config: 25 conv, agenda+ventas)",
+  "caso": "Hotel, tours o eventos",
+  "entrada": {
+   "giro": "Hotel, tours o eventos",
+   "conversaciones_dia": 25,
+   "canales": [
+    "whatsapp"
+   ],
+   "ticket_mxn": 3000,
+   "sucursales": 1,
+   "modulos": [
+    "agenda",
+    "ventas"
+   ],
+   "productos": 15,
+   "integraciones": [],
+   "agentes": 1,
+   "empleados": 1
+  },
+  "respuesta": {
+   "plan": "negocio",
+   "empresa_incluye": null,
+   "precio_mensual": 2290,
+   "total_mensual": 2290,
+   "lineas": [
+    [
+     "Tu asistente: 25 conversaciones al día en WhatsApp",
+     1990
+    ],
+    [
+     "Agenda y recordatorios",
+     0
+    ],
+    [
+     "Ventas y seguimiento",
+     300
+    ]
+   ],
+   "descuentos": {
+    "3": 2176,
+    "6": 2061,
+    "12": 1947
+   },
+   "recarga": {
+    "porcentaje": 50,
+    "precio": 690
+   },
+   "revisar": false,
+   "voz": null,
+   "video_ia": null,
+   "incluye": [
+    "Atiende en los canales que elijas, 24/7",
+    "Asistente del dueño: le pides cosas por chat",
+    "Bandeja de aprobaciones y botón de pausa",
+    "Reporte mensual en pesos"
+   ],
+   "permanencia_meses": 0
+  }
+ },
+ {
+  "grupo": "13. Giro (misma config: 25 conv, agenda+ventas)",
+  "caso": "Veterinaria o mascotas",
+  "entrada": {
+   "giro": "Veterinaria o mascotas",
+   "conversaciones_dia": 25,
+   "canales": [
+    "whatsapp"
+   ],
+   "ticket_mxn": 800,
+   "sucursales": 1,
+   "modulos": [
+    "agenda",
+    "ventas"
+   ],
+   "productos": 15,
+   "integraciones": [],
+   "agentes": 1,
+   "empleados": 1
+  },
+  "respuesta": {
+   "plan": "negocio",
+   "empresa_incluye": null,
+   "precio_mensual": 2290,
+   "total_mensual": 2290,
+   "lineas": [
+    [
+     "Tu asistente: 25 conversaciones al día en WhatsApp",
+     1890
+    ],
+    [
+     "Agenda y recordatorios",
+     100
+    ],
+    [
+     "Ventas y seguimiento",
+     300
+    ]
+   ],
+   "descuentos": {
+    "3": 2176,
+    "6": 2061,
+    "12": 1947
+   },
+   "recarga": {
+    "porcentaje": 50,
+    "precio": 690
+   },
+   "revisar": false,
+   "voz": null,
+   "video_ia": null,
+   "incluye": [
+    "Atiende en los canales que elijas, 24/7",
+    "Asistente del dueño: le pides cosas por chat",
+    "Bandeja de aprobaciones y botón de pausa",
+    "Reporte mensual en pesos"
+   ],
+   "permanencia_meses": 0
+  }
+ },
+ {
+  "grupo": "13. Giro (misma config: 25 conv, agenda+ventas)",
+  "caso": "Construcción, remodelación o instalaciones",
+  "entrada": {
+   "giro": "Construcción, remodelación o instalaciones",
+   "conversaciones_dia": 25,
+   "canales": [
+    "whatsapp"
+   ],
+   "ticket_mxn": 30000,
+   "sucursales": 1,
+   "modulos": [
+    "agenda",
+    "ventas"
+   ],
+   "productos": 60,
+   "integraciones": [],
+   "agentes": 1,
+   "empleados": 1
+  },
+  "respuesta": {
+   "plan": "negocio",
+   "empresa_incluye": null,
+   "precio_mensual": 2490,
+   "total_mensual": 2490,
+   "lineas": [
+    [
+     "Tu asistente: 25 conversaciones al día en WhatsApp",
+     2090
+    ],
+    [
+     "Agenda y recordatorios",
+     100
+    ],
+    [
+     "Ventas y seguimiento",
+     300
+    ]
+   ],
+   "descuentos": {
+    "3": 2366,
+    "6": 2241,
+    "12": 2117
+   },
+   "recarga": {
+    "porcentaje": 50,
+    "precio": 790
+   },
+   "revisar": false,
+   "voz": null,
+   "video_ia": null,
+   "incluye": [
+    "Atiende en los canales que elijas, 24/7",
+    "Asistente del dueño: le pides cosas por chat",
+    "Bandeja de aprobaciones y botón de pausa",
+    "Reporte mensual en pesos"
+   ],
+   "permanencia_meses": 0
+  }
+ },
+ {
+  "grupo": "13. Giro (misma config: 25 conv, agenda+ventas)",
+  "caso": "Distribuidora, fábrica o mayoreo",
+  "entrada": {
+   "giro": "Distribuidora, fábrica o mayoreo",
+   "conversaciones_dia": 25,
+   "canales": [
+    "whatsapp"
+   ],
+   "ticket_mxn": 15000,
+   "sucursales": 1,
+   "modulos": [
+    "agenda",
+    "ventas"
+   ],
+   "productos": 1000,
+   "integraciones": [],
+   "agentes": 1,
+   "empleados": 1
+  },
+  "respuesta": {
+   "plan": "negocio",
+   "empresa_incluye": null,
+   "precio_mensual": 2790,
+   "total_mensual": 2790,
+   "lineas": [
+    [
+     "Tu asistente: 25 conversaciones al día en WhatsApp",
+     2290
+    ],
+    [
+     "Agenda y recordatorios",
+     100
+    ],
+    [
+     "Ventas y seguimiento",
+     400
+    ]
+   ],
+   "descuentos": {
+    "3": 2651,
+    "6": 2511,
+    "12": 2372
+   },
+   "recarga": {
+    "porcentaje": 50,
+    "precio": 890
+   },
+   "revisar": false,
+   "voz": null,
+   "video_ia": null,
+   "incluye": [
+    "Atiende en los canales que elijas, 24/7",
+    "Asistente del dueño: le pides cosas por chat",
+    "Bandeja de aprobaciones y botón de pausa",
+    "Reporte mensual en pesos"
+   ],
+   "permanencia_meses": 0
+  }
+ },
+ {
+  "grupo": "13. Giro (misma config: 25 conv, agenda+ventas)",
+  "caso": "Agencia, consultoría o seguros",
+  "entrada": {
+   "giro": "Agencia, consultoría o seguros",
+   "conversaciones_dia": 25,
+   "canales": [
+    "whatsapp"
+   ],
+   "ticket_mxn": 6000,
+   "sucursales": 1,
+   "modulos": [
+    "agenda",
+    "ventas"
+   ],
+   "productos": 15,
+   "integraciones": [],
+   "agentes": 1,
+   "empleados": 1
+  },
+  "respuesta": {
+   "plan": "negocio",
+   "empresa_incluye": null,
+   "precio_mensual": 2390,
+   "total_mensual": 2390,
+   "lineas": [
+    [
+     "Tu asistente: 25 conversaciones al día en WhatsApp",
+     1990
+    ],
+    [
+     "Agenda y recordatorios",
+     100
+    ],
+    [
+     "Ventas y seguimiento",
+     300
+    ]
+   ],
+   "descuentos": {
+    "3": 2271,
+    "6": 2151,
+    "12": 2032
+   },
+   "recarga": {
+    "porcentaje": 50,
+    "precio": 690
+   },
+   "revisar": false,
+   "voz": null,
+   "video_ia": null,
+   "incluye": [
+    "Atiende en los canales que elijas, 24/7",
+    "Asistente del dueño: le pides cosas por chat",
+    "Bandeja de aprobaciones y botón de pausa",
+    "Reporte mensual en pesos"
+   ],
+   "permanencia_meses": 0
+  }
+ },
+ {
+  "grupo": "13. Giro (misma config: 25 conv, agenda+ventas)",
+  "caso": "Venta de autos o motos",
+  "entrada": {
+   "giro": "Venta de autos o motos",
+   "conversaciones_dia": 25,
+   "canales": [
+    "whatsapp"
+   ],
+   "ticket_mxn": 15000,
+   "sucursales": 1,
+   "modulos": [
+    "agenda",
+    "ventas"
+   ],
+   "productos": 60,
+   "integraciones": [],
+   "agentes": 1,
+   "empleados": 1
+  },
+  "respuesta": {
+   "plan": "negocio",
+   "empresa_incluye": null,
+   "precio_mensual": 2490,
+   "total_mensual": 2490,
+   "lineas": [
+    [
+     "Tu asistente: 25 conversaciones al día en WhatsApp",
+     2090
+    ],
+    [
+     "Agenda y recordatorios",
+     0
+    ],
+    [
+     "Ventas y seguimiento",
+     400
+    ]
+   ],
+   "descuentos": {
+    "3": 2366,
+    "6": 2241,
+    "12": 2117
+   },
+   "recarga": {
+    "porcentaje": 50,
+    "precio": 790
+   },
+   "revisar": false,
+   "voz": null,
+   "video_ia": null,
+   "incluye": [
+    "Atiende en los canales que elijas, 24/7",
+    "Asistente del dueño: le pides cosas por chat",
+    "Bandeja de aprobaciones y botón de pausa",
+    "Reporte mensual en pesos"
+   ],
+   "permanencia_meses": 0
+  }
+ },
+ {
+  "grupo": "13. Giro (misma config: 25 conv, agenda+ventas)",
+  "caso": "Otro",
+  "entrada": {
+   "giro": "Otro",
+   "conversaciones_dia": 25,
+   "canales": [
+    "whatsapp"
+   ],
+   "ticket_mxn": 1000,
+   "sucursales": 1,
+   "modulos": [
+    "agenda",
+    "ventas"
+   ],
+   "productos": 15,
+   "integraciones": [],
+   "agentes": 1,
+   "empleados": 1
+  },
+  "respuesta": {
+   "plan": "negocio",
+   "empresa_incluye": null,
+   "precio_mensual": 2290,
+   "total_mensual": 2290,
+   "lineas": [
+    [
+     "Tu asistente: 25 conversaciones al día en WhatsApp",
+     1890
+    ],
+    [
+     "Agenda y recordatorios",
+     100
+    ],
+    [
+     "Ventas y seguimiento",
+     300
+    ]
+   ],
+   "descuentos": {
+    "3": 2176,
+    "6": 2061,
+    "12": 1947
+   },
+   "recarga": {
+    "porcentaje": 50,
+    "precio": 690
+   },
+   "revisar": false,
+   "voz": null,
+   "video_ia": null,
+   "incluye": [
+    "Atiende en los canales que elijas, 24/7",
+    "Asistente del dueño: le pides cosas por chat",
+    "Bandeja de aprobaciones y botón de pausa",
+    "Reporte mensual en pesos"
+   ],
+   "permanencia_meses": 0
+  }
+ },
+ {
+  "grupo": "14. Combinaciones típicas",
+  "caso": "Barbería solo WhatsApp",
+  "entrada": {
+   "giro": "Estética, spa o barbería",
+   "conversaciones_dia": 25,
+   "canales": [
+    "whatsapp"
+   ],
+   "ticket_mxn": 700,
+   "sucursales": 1,
+   "modulos": [],
+   "productos": 15,
+   "integraciones": [],
+   "agentes": 1,
+   "empleados": 1
+  },
+  "respuesta": {
+   "plan": "negocio",
+   "empresa_incluye": null,
+   "precio_mensual": 1890,
+   "total_mensual": 1890,
+   "lineas": [
+    [
+     "Tu asistente: 25 conversaciones al día en WhatsApp",
+     1890
+    ]
+   ],
+   "descuentos": {
+    "3": 1796,
+    "6": 1701,
+    "12": 1607
+   },
+   "recarga": {
+    "porcentaje": 50,
+    "precio": 590
+   },
+   "revisar": false,
+   "voz": null,
+   "video_ia": null,
+   "incluye": [
+    "Atiende en los canales que elijas, 24/7",
+    "Asistente del dueño: le pides cosas por chat",
+    "Bandeja de aprobaciones y botón de pausa",
+    "Reporte mensual en pesos"
+   ],
+   "permanencia_meses": 0
+  }
+ },
+ {
+  "grupo": "14. Combinaciones típicas",
+  "caso": "Consultorio con agenda",
+  "entrada": {
+   "giro": "Consultorio, clínica o dentista",
+   "conversaciones_dia": 10,
+   "canales": [
+    "whatsapp"
+   ],
+   "ticket_mxn": 1500,
+   "sucursales": 1,
+   "modulos": [
+    "agenda"
+   ],
+   "productos": 15,
+   "integraciones": [
+    "calendario"
+   ],
+   "agentes": 1,
+   "empleados": 1
+  },
+  "respuesta": {
+   "plan": "negocio",
+   "empresa_incluye": null,
+   "precio_mensual": 1790,
+   "total_mensual": 1790,
+   "lineas": [
+    [
+     "Tu asistente: 10 conversaciones al día en WhatsApp",
+     1590
+    ],
+    [
+     "Agenda y recordatorios",
+     100
+    ],
+    [
+     "Conexión con Google Calendar u otra agenda",
+     100
+    ]
+   ],
+   "descuentos": {
+    "3": 1701,
+    "6": 1611,
+    "12": 1522
+   },
+   "recarga": {
+    "porcentaje": 50,
+    "precio": 390
+   },
+   "revisar": false,
+   "voz": null,
+   "video_ia": null,
+   "incluye": [
+    "Atiende en los canales que elijas, 24/7",
+    "Asistente del dueño: le pides cosas por chat",
+    "Bandeja de aprobaciones y botón de pausa",
+    "Reporte mensual en pesos"
+   ],
+   "permanencia_meses": 0
+  }
+ },
+ {
+  "grupo": "14. Combinaciones típicas",
+  "caso": "Dentista: agenda+ventas+redes",
+  "entrada": {
+   "giro": "Consultorio, clínica o dentista",
+   "conversaciones_dia": 25,
+   "canales": [
+    "whatsapp",
+    "instagram"
+   ],
+   "ticket_mxn": 1500,
+   "sucursales": 1,
+   "modulos": [
+    "agenda",
+    "ventas",
+    "redes"
+   ],
+   "productos": 15,
+   "integraciones": [],
+   "agentes": 1,
+   "empleados": 1,
+   "redes_publicaciones_semana": 5
+  },
+  "respuesta": {
+   "plan": "negocio",
+   "empresa_incluye": null,
+   "precio_mensual": 4490,
+   "total_mensual": 4490,
+   "lineas": [
+    [
+     "Tu asistente: 25 conversaciones al día en WhatsApp, Instagram",
+     1990
+    ],
+    [
+     "Agenda y recordatorios",
+     0
+    ],
+    [
+     "Ventas y seguimiento",
+     300
+    ],
+    [
+     "Redes sociales (5 publicaciones a la semana)",
+     2200
+    ]
+   ],
+   "descuentos": {
+    "3": 4266,
+    "6": 4041,
+    "12": 3817
+   },
+   "recarga": {
+    "porcentaje": 50,
+    "precio": 790
+   },
+   "revisar": false,
+   "voz": null,
+   "video_ia": null,
+   "incluye": [
+    "Atiende en los canales que elijas, 24/7",
+    "Asistente del dueño: le pides cosas por chat",
+    "Bandeja de aprobaciones y botón de pausa",
+    "Reporte mensual en pesos"
+   ],
+   "permanencia_meses": 0
+  }
+ },
+ {
+  "grupo": "14. Combinaciones típicas",
+  "caso": "Restaurante 2 sucursales",
+  "entrada": {
+   "giro": "Restaurante, café o comida",
+   "conversaciones_dia": 60,
+   "canales": [
+    "whatsapp",
+    "instagram"
+   ],
+   "ticket_mxn": 300,
+   "sucursales": 2,
+   "modulos": [
+    "operacion",
+    "redes"
+   ],
+   "productos": 60,
+   "integraciones": [],
+   "agentes": 1,
+   "empleados": 1,
+   "redes_publicaciones_semana": 5
+  },
+  "respuesta": {
+   "plan": "negocio",
+   "empresa_incluye": null,
+   "precio_mensual": 5890,
+   "total_mensual": 5890,
+   "lineas": [
+    [
+     "Tu asistente: 60 conversaciones al día en WhatsApp, Instagram, 2 sucursales",
+     3690
+    ],
+    [
+     "Operación y reportes",
+     400
+    ],
+    [
+     "Redes sociales (5 publicaciones a la semana)",
+     1800
+    ]
+   ],
+   "descuentos": {
+    "3": 5596,
+    "6": 5301,
+    "12": 5007
+   },
+   "recarga": {
+    "porcentaje": 50,
+    "precio": 1190
+   },
+   "revisar": false,
+   "voz": null,
+   "video_ia": null,
+   "incluye": [
+    "Atiende en los canales que elijas, 24/7",
+    "Asistente del dueño: le pides cosas por chat",
+    "Bandeja de aprobaciones y botón de pausa",
+    "Reporte mensual en pesos"
+   ],
+   "permanencia_meses": 0
+  }
+ },
+ {
+  "grupo": "14. Combinaciones típicas",
+  "caso": "Despacho contable",
+  "entrada": {
+   "giro": "Despacho legal, contable o notaría",
+   "conversaciones_dia": 10,
+   "canales": [
+    "whatsapp"
+   ],
+   "ticket_mxn": 8000,
+   "sucursales": 1,
+   "modulos": [
+    "agenda",
+    "cobranza",
+    "ventas"
+   ],
+   "productos": 15,
+   "integraciones": [],
+   "agentes": 1,
+   "empleados": 3
+  },
+  "respuesta": {
+   "plan": "negocio",
+   "empresa_incluye": null,
+   "precio_mensual": 1890,
+   "total_mensual": 1890,
+   "lineas": [
+    [
+     "Tu asistente: 10 conversaciones al día en WhatsApp",
+     1690
+    ],
+    [
+     "Agenda y recordatorios",
+     0
+    ],
+    [
+     "Ventas y seguimiento",
+     100
+    ],
+    [
+     "Cobranza",
+     100
+    ]
+   ],
+   "descuentos": {
+    "3": 1796,
+    "6": 1701,
+    "12": 1607
+   },
+   "recarga": {
+    "porcentaje": 50,
+    "precio": 490
+   },
+   "revisar": false,
+   "voz": null,
+   "video_ia": null,
+   "incluye": [
+    "Atiende en los canales que elijas, 24/7",
+    "Asistente del dueño: le pides cosas por chat",
+    "Bandeja de aprobaciones y botón de pausa",
+    "Reporte mensual en pesos"
+   ],
+   "permanencia_meses": 0
+  }
+ },
+ {
+  "grupo": "14. Combinaciones típicas",
+  "caso": "Taller: cotizaciones+agenda",
+  "entrada": {
+   "giro": "Taller o servicio automotriz",
+   "conversaciones_dia": 25,
+   "canales": [
+    "whatsapp"
+   ],
+   "ticket_mxn": 2000,
+   "sucursales": 1,
+   "modulos": [
+    "cotizaciones",
+    "agenda"
+   ],
+   "productos": 60,
+   "integraciones": [],
+   "agentes": 1,
+   "empleados": 1
+  },
+  "respuesta": {
+   "plan": "negocio",
+   "empresa_incluye": null,
+   "precio_mensual": 2490,
+   "total_mensual": 2490,
+   "lineas": [
+    [
+     "Tu asistente: 25 conversaciones al día en WhatsApp",
+     1990
+    ],
+    [
+     "Agenda y recordatorios",
+     100
+    ],
+    [
+     "Agente de cotizaciones",
+     400
+    ]
+   ],
+   "descuentos": {
+    "3": 2366,
+    "6": 2241,
+    "12": 2117
+   },
+   "recarga": {
+    "porcentaje": 50,
+    "precio": 690
+   },
+   "revisar": false,
+   "voz": null,
+   "video_ia": null,
+   "incluye": [
+    "Atiende en los canales que elijas, 24/7",
+    "Asistente del dueño: le pides cosas por chat",
+    "Bandeja de aprobaciones y botón de pausa",
+    "Reporte mensual en pesos"
+   ],
+   "permanencia_meses": 0
+  }
+ },
+ {
+  "grupo": "14. Combinaciones típicas",
+  "caso": "Tienda en línea: ventas+operación, 3 canales",
+  "entrada": {
+   "giro": "Tienda física o en línea",
+   "conversaciones_dia": 60,
+   "canales": [
+    "whatsapp",
+    "instagram",
+    "web"
+   ],
+   "ticket_mxn": 700,
+   "sucursales": 1,
+   "modulos": [
+    "ventas",
+    "operacion",
+    "cobranza"
+   ],
+   "productos": 300,
+   "integraciones": [
+    "pos",
+    "pagos"
+   ],
+   "agentes": 1,
+   "empleados": 1
+  },
+  "respuesta": {
+   "plan": "negocio",
+   "empresa_incluye": null,
+   "precio_mensual": 4790,
+   "total_mensual": 4790,
+   "lineas": [
+    [
+     "Tu asistente: 60 conversaciones al día en WhatsApp, Instagram, Chat en tu página",
+     3090
+    ],
+    [
+     "Ventas y seguimiento",
+     800
+    ],
+    [
+     "Cobranza",
+     100
+    ],
+    [
+     "Operación y reportes",
+     400
+    ],
+    [
+     "Conexión con Punto de venta o inventario, Enlaces de pago",
+     400
+    ]
+   ],
+   "descuentos": {
+    "3": 4551,
+    "6": 4311,
+    "12": 4072
+   },
+   "recarga": {
+    "porcentaje": 50,
+    "precio": 1690
+   },
+   "revisar": false,
+   "voz": null,
+   "video_ia": null,
+   "incluye": [
+    "Atiende en los canales que elijas, 24/7",
+    "Asistente del dueño: le pides cosas por chat",
+    "Bandeja de aprobaciones y botón de pausa",
+    "Reporte mensual en pesos"
+   ],
+   "permanencia_meses": 0
+  }
+ },
+ {
+  "grupo": "14. Combinaciones típicas",
+  "caso": "Distribuidora: cotizaciones+compras+cobranza",
+  "entrada": {
+   "giro": "Distribuidora, fábrica o mayoreo",
+   "conversaciones_dia": 25,
+   "canales": [
+    "whatsapp"
+   ],
+   "ticket_mxn": 15000,
+   "sucursales": 1,
+   "modulos": [
+    "cotizaciones",
+    "compras",
+    "cobranza",
+    "ventas"
+   ],
+   "productos": 1000,
+   "integraciones": [
+    "hojas"
+   ],
+   "agentes": 1,
+   "empleados": 10
+  },
+  "respuesta": {
+   "plan": "negocio",
+   "empresa_incluye": null,
+   "precio_mensual": 3590,
+   "total_mensual": 3590,
+   "lineas": [
+    [
+     "Tu asistente: 25 conversaciones al día en WhatsApp",
+     2290
+    ],
+    [
+     "Ventas y seguimiento",
+     500
+    ],
+    [
+     "Agente de cotizaciones",
+     400
+    ],
+    [
+     "Cobranza",
+     0
+    ],
+    [
+     "Agente de compras y proveedores",
+     200
+    ],
+    [
+     "Conexión con Google Sheets o Excel",
+     200
+    ]
+   ],
+   "descuentos": {
+    "3": 3411,
+    "6": 3231,
+    "12": 3052
+   },
+   "recarga": {
+    "porcentaje": 50,
+    "precio": 1090
+   },
+   "revisar": false,
+   "voz": null,
+   "video_ia": null,
+   "incluye": [
+    "Atiende en los canales que elijas, 24/7",
+    "Asistente del dueño: le pides cosas por chat",
+    "Bandeja de aprobaciones y botón de pausa",
+    "Reporte mensual en pesos"
+   ],
+   "permanencia_meses": 0
+  }
+ },
+ {
+  "grupo": "14. Combinaciones típicas",
+  "caso": "Inmobiliaria con todo",
+  "entrada": {
+   "giro": "Inmobiliaria o bienes raíces",
+   "conversaciones_dia": 150,
+   "canales": [
+    "whatsapp",
+    "instagram",
+    "messenger",
+    "web",
+    "correo"
+   ],
+   "ticket_mxn": 50000,
+   "sucursales": 2,
+   "modulos": [
+    "agenda",
+    "ventas",
+    "cotizaciones",
+    "cobranza",
+    "compras",
+    "operacion",
+    "redes",
+    "seo",
+    "anuncios"
+   ],
+   "productos": 60,
+   "integraciones": [
+    "calendario",
+    "crm"
+   ],
+   "agentes": 1,
+   "empleados": 10,
+   "redes_publicaciones_semana": 7,
+   "seo_blogs_mes": 8,
+   "anuncios_inversion_mxn": 12000,
+   "llamadas_dia": 10,
+   "videos_ia_mes": 4,
+   "video_segundos": 30
+  },
+  "respuesta": {
+   "plan": "negocio",
+   "empresa_incluye": null,
+   "precio_mensual": 14890,
+   "total_mensual": 24770,
+   "lineas": [
+    [
+     "Tu asistente: 150 conversaciones al día en WhatsApp, Instagram, Messenger, Chat en tu página, Correo, 2 sucursales",
+     6990
+    ],
+    [
+     "Agenda y recordatorios",
+     200
+    ],
+    [
+     "Ventas y seguimiento",
+     1400
+    ],
+    [
+     "Agente de cotizaciones",
+     1000
+    ],
+    [
+     "Cobranza",
+     200
+    ],
+    [
+     "Agente de compras y proveedores",
+     200
+    ],
+    [
+     "Operación y reportes",
+     400
+    ],
+    [
+     "Redes sociales (7 publicaciones a la semana)",
+     1400
+    ],
+    [
+     "Google y las IA (SEO) (8 artículos al mes)",
+     900
+    ],
+    [
+     "Anuncios",
+     300
+    ],
+    [
+     "Conexión con Google Calendar u otra agenda, Tu CRM",
+     1900
+    ]
+   ],
+   "descuentos": {
+    "3": 14146,
+    "6": 13401,
+    "12": 12657
+   },
+   "recarga": {
+    "porcentaje": 50,
+    "precio": 4790
+   },
+   "revisar": false,
+   "voz": {
+    "nombre": "Agente de voz",
+    "minutos": 1500,
+    "precio": 8090,
+    "minuto_extra": 5.9,
+    "a_la_medida": false
+   },
+   "video_ia": {
+    "nombre": "Videos con IA",
+    "videos": 4,
+    "segundos": 30,
+    "precio": 1790,
+    "video_extra": 390,
+    "a_la_medida": false
+   },
+   "incluye": [
+    "Atiende en los canales que elijas, 24/7",
+    "Asistente del dueño: le pides cosas por chat",
+    "Bandeja de aprobaciones y botón de pausa",
+    "Reporte mensual en pesos"
+   ],
+   "permanencia_meses": 0
+  }
+ },
+ {
+  "grupo": "14. Combinaciones típicas",
+  "caso": "Empresa 30 personas: equipo completo",
+  "entrada": {
+   "giro": "Distribuidora, fábrica o mayoreo",
+   "conversaciones_dia": 150,
+   "canales": [
+    "whatsapp",
+    "instagram",
+    "web",
+    "correo"
+   ],
+   "ticket_mxn": 15000,
+   "sucursales": 2,
+   "modulos": [
+    "agenda",
+    "ventas",
+    "cotizaciones",
+    "cobranza",
+    "compras",
+    "operacion"
+   ],
+   "productos": 1000,
+   "integraciones": [
+    "crm",
+    "pos",
+    "sistema"
+   ],
+   "agentes": 1,
+   "empleados": 30,
+   "llamadas_dia": 10
+  },
+  "respuesta": {
+   "plan": "empresa",
+   "empresa_incluye": [
+    "Agente principal que coordina a tus agentes",
+    "Agentes de cotizaciones y de compras",
+    "Conexión a tu CRM o ERP",
+    "Soporte dedicado con SLA"
+   ],
+   "precio_mensual": 19490,
+   "total_mensual": 27380,
+   "lineas": [
+    [
+     "Plan Empresarial: orquestador central, conexión a CRM o ERP y soporte con SLA (150 conversaciones al día, 2 sucursales)",
+     16490
+    ],
+    [
+     "Agenda y recordatorios",
+     200
+    ],
+    [
+     "Ventas y seguimiento",
+     2000
+    ],
+    [
+     "Cobranza",
+     200
+    ],
+    [
+     "Operación y reportes",
+     300
+    ],
+    [
+     "Conexión con Punto de venta o inventario, Tu sistema propio (API)",
+     300
+    ]
+   ],
+   "descuentos": {
+    "3": 18516,
+    "6": 17541,
+    "12": 16567
+   },
+   "recarga": {
+    "porcentaje": 50,
+    "precio": 5290
+   },
+   "revisar": false,
+   "voz": {
+    "nombre": "Agente de voz",
+    "minutos": 1500,
+    "precio": 7890,
+    "minuto_extra": 5.9,
+    "a_la_medida": false
+   },
+   "video_ia": null,
+   "incluye": [
+    "Atiende en los canales que elijas, 24/7",
+    "Asistente del dueño: le pides cosas por chat",
+    "Bandeja de aprobaciones y botón de pausa",
+    "Reporte mensual en pesos"
+   ],
+   "permanencia_meses": 0
+  }
+ },
+ {
+  "grupo": "14. Combinaciones típicas",
+  "caso": "Empresa 80 personas: todo al máximo",
+  "entrada": {
+   "giro": "Agencia, consultoría o seguros",
+   "conversaciones_dia": 450,
+   "canales": [
+    "whatsapp",
+    "instagram",
+    "messenger",
+    "web",
+    "correo"
+   ],
+   "ticket_mxn": 6000,
+   "sucursales": 4,
+   "modulos": [
+    "agenda",
+    "ventas",
+    "cotizaciones",
+    "cobranza",
+    "compras",
+    "operacion",
+    "redes",
+    "seo",
+    "anuncios"
+   ],
+   "productos": 15,
+   "integraciones": [
+    "calendario",
+    "hojas",
+    "crm",
+    "pos",
+    "pagos",
+    "sistema"
+   ],
+   "agentes": 1,
+   "empleados": 80,
+   "redes_publicaciones_semana": 7,
+   "seo_blogs_mes": 12,
+   "anuncios_inversion_mxn": 80000,
+   "llamadas_dia": 40,
+   "videos_ia_mes": 16,
+   "video_segundos": 30
+  },
+  "respuesta": {
+   "plan": "empresa",
+   "empresa_incluye": [
+    "Agente principal que coordina a tus agentes",
+    "Agentes de cotizaciones y de compras",
+    "Conexión a tu CRM o ERP",
+    "Soporte dedicado con SLA"
+   ],
+   "precio_mensual": 38290,
+   "total_mensual": 64970,
+   "lineas": [
+    [
+     "Plan Empresarial: orquestador central, conexión a CRM o ERP y soporte con SLA (450 conversaciones al día, 4 sucursales)",
+     25090
+    ],
+    [
+     "Agenda y recordatorios",
+     600
+    ],
+    [
+     "Ventas y seguimiento",
+     4000
+    ],
+    [
+     "Cobranza",
+     500
+    ],
+    [
+     "Operación y reportes",
+     800
+    ],
+    [
+     "Redes sociales (7 publicaciones a la semana)",
+     900
+    ],
+    [
+     "Google y las IA (SEO) (12 artículos al mes)",
+     600
+    ],
+    [
+     "Anuncios",
+     100
+    ],
+    [
+     "Conexión con Google Calendar u otra agenda, Google Sheets o Excel, Punto de venta o inventario, Enlaces de pago, Tu sistema propio (API)",
+     5700
+    ]
+   ],
+   "descuentos": {
+    "3": 36376,
+    "6": 34461,
+    "12": 32547
+   },
+   "recarga": {
+    "porcentaje": 50,
+    "precio": 12090
+   },
+   "revisar": true,
+   "voz": {
+    "nombre": "Agente de voz",
+    "minutos": 4500,
+    "precio": 21490,
+    "minuto_extra": 5.9,
+    "a_la_medida": true
+   },
+   "video_ia": {
+    "nombre": "Videos con IA",
+    "videos": 16,
+    "segundos": 30,
+    "precio": 5190,
+    "video_extra": 390,
+    "a_la_medida": false
+   },
+   "incluye": [
+    "Atiende en los canales que elijas, 24/7",
+    "Asistente del dueño: le pides cosas por chat",
+    "Bandeja de aprobaciones y botón de pausa",
+    "Reporte mensual en pesos"
+   ],
+   "permanencia_meses": 0
+  }
+ }
+]
